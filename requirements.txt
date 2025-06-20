@@ -1,0 +1,50 @@
+# Core Data Science and ML
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Deep Learning and Embeddings
+torch>=2.0.0
+sentence-transformers>=2.2.0
+
+# NLP and Text Processing
+transformers>=4.30.0
+tokenizers>=0.13.0
+
+# Vector Search and Similarity
+faiss-cpu>=1.7.4
+annoy>=1.17.0
+
+# Google AI Integration
+google-generativeai>=0.3.0
+
+# Data Handling and Storage
+pathlib2>=2.3.7
+json5>=0.9.0
+
+# Logging and Utilities
+tqdm>=4.65.0
+click>=8.1.0
+
+# Type Hints (for Python < 3.9)
+typing-extensions>=4.5.0
+
+# Development and Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Optional: Jupyter for development
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Optional: API Framework (if building web API)
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+
+# Optional: Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0

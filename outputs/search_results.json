@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "query": "young brazilian strikers under 25 from top european leagues",
+  "ai_response": "**1. Match Assessment:**\n\nJoão Pedro perfectly fits the scouting request.  He's a Brazilian striker under 25 playing in a top European league, showcasing a consistent upward trajectory.  The provided data, however, lacks detail on recent form and competition level faced which requires further investigation.\n\n**2. Top Recommendation:**\n\nJoão Pedro, at €50 million market value, represents a high-risk, high-reward proposition. His 0.314 goals/game ratio, while respectable, doesn't scream elite striker. However, his age, consistent upward trajectory, and presence in the Premier League suggest significant untapped potential.  His style likely revolves around clinical finishing within the box, supported by his good discipline and experience, making him a reliable asset who could benefit from a tactical system built to capitalize on his strengths.  His current price point indicates a belief in his future growth.\n\n**3. Alternative Options:**\n\n(Assuming there are players 2 and 3,  as they are not provided,  I will create hypothetical examples.)  Player 2, a 24-year-old with a higher goals/game ratio but playing in a less competitive league, offers potentially higher short-term impact but greater risk in adapting to elite competition.  Player 3, a younger prospect with lower numbers but higher potential, is a long-term project with significant uncertainty but potentially higher upside.\n\n**4. Key Statistics:**\n\nWhile goals/game is crucial, a deeper dive into expected goals (xG) and shot accuracy would be essential for a complete picture. Examining his performance against top-tier opposition within the Premier League offers further insight into his suitability for a Champions League-level club.  Assists/game (0.108) while not a high number, is indicative of his involvement in build-up play.\n\n**5. Scouting Concerns:**\n\nHis relatively low goals/game ratio compared to his market value warrants close scrutiny. We need to ascertain whether this reflects his role within Brighton's system, a lack of service, or inherent limitations in his finishing ability. Further investigation is required to gauge his adaptability to a different tactical approach and squad dynamic.  A video analysis of recent games is paramount.\n\n**6. Final Verdict:**\n\nJoão Pedro is a worthwhile target, but further in-depth scouting is absolutely necessary before making a final decision.  His market value reflects a high level of interest, but his goal-scoring consistency needs to be analyzed within the context of his overall playing style and the quality of opposition faced.  His potential justifies the investigation, but only after detailed analysis can we determine whether his price matches his true worth.\n",
+  "top_players": [
+    {
+      "rank": 1,
+      "relevance_score": 1.54,
+      "basic_info": {
+        "name": "João Pedro",
+        "age": 23,
+        "position": "Attack",
+        "sub_position": "Centre-Forward",
+        "nationality": "Brazil",
+        "current_club": "Brighton and Hove Albion Football Club",
+        "market_value": 50000000
+      },
+      "performance": {
+        "total_appearances": 102,
+        "total_goals": 32,
+        "total_assists": 11,
+        "goals_per_game": 0.314,
+        "assists_per_game": 0.108,
+        "minutes_played": 6592
+      },
+      "profile": {
+        "experience_level": "experienced",
+        "goal_scoring_ability": "occasional",
+        "discipline": "good",
+        "transfer_count": 3,
+        "career_trajectory": "upward"
+      },
+      "market_info": {
+        "peak_value": 50000000.0,
+        "value_trend": "rising",
+        "value_change": 0.0
+      },
+      "scouting_summary": "João Pedro is a 23-year-old Attack (Centre-Forward) from Brazil. currently playing for Brighton and Hove Albion Football Club. Physical: 182.0cm, right-footed. Career: 102 apps, 32 goals, 11 assists. Performance: 0.31 goals/game, 0.11 assists/game, 0.59 contributions/90min. Profile: experienced player, occasional goalscorer, good discipline, big game experience. Experience: Top 5 leagues: premier league; European: europa league. High market value: €50,000,000. Value trending upward. Agent: Promanager."
+    }
+  ],
+  "total_candidates_found": 1,
+  "search_metadata": {
+    "timestamp": "2025-06-13T20:35:21.161698",
+    "model_used": "gemini-1.5-flash",
+    "reranking_applied": true,
+    "filters_applied": true
+  },
+  "processing_time_seconds": 4.444416
+}

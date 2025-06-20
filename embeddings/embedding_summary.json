@@ -1,0 +1,79 @@
+{
+  "total_players": 6148,
+  "embedding_dimension": 384,
+  "data_quality": {
+    "avg_text_length": 450.5113858165257,
+    "players_with_stats": 5968,
+    "players_with_market_value": 6148,
+    "active_players_only": true,
+    "last_season_filter": 2024
+  },
+  "position_distribution": {
+    "Defender": 2069,
+    "Midfield": 1754,
+    "Attack": 1658,
+    "Goalkeeper": 666,
+    "Missing": 1
+  },
+  "top_clubs": {
+    "Verein f\u00fcr Bewegungsspiele Stuttgart 1893": 35,
+    "Boavista Futebol Clube": 34,
+    "Turn- und Sportgemeinschaft 1899 Hoffenheim Fu\u00dfball-Spielbetriebs": 33,
+    "Fu\u00dfball-Club St. Pauli von 1910": 33,
+    "Motherwell Football Club": 32,
+    "Feyenoord Rotterdam": 32,
+    "ZAO FK Chornomorets Odessa": 32,
+    "Unione Sportiva Lecce": 32,
+    "Panthessalonikios Athlitikos Omilos Konstantinoupoliton": 31,
+    "Calcio Como": 31,
+    "Panathinaikos Athlitikos Omilos": 31,
+    "FC Shakhtar Donetsk": 31,
+    "Verona Hellas Football Club": 31,
+    "Wolverhampton Wanderers Football Club": 31,
+    "Parma Calcio 1913": 31,
+    "Stade Rennais Football Club": 30,
+    "Koninklijke Atletiek Associatie Gent": 30,
+    "Chelsea Football Club": 30,
+    "Associazione Calcio Monza": 30,
+    "Verein f\u00fcr Leibes\u00fcbungen Wolfsburg": 30
+  },
+  "age_distribution": {
+    "mean": 26.0,
+    "median": 25,
+    "min": 16,
+    "max": 42,
+    "std": 4.5
+  },
+  "market_value_stats": {
+    "mean": 6212975.0,
+    "median": 1500000.0,
+    "max": 200000000,
+    "players_over_1m": 3469,
+    "players_over_10m": 944,
+    "players_over_50m": 87
+  },
+  "nationality_distribution": {
+    "Spain": 425,
+    "France": 368,
+    "Ukraine": 337,
+    "Netherlands": 313,
+    "Germany": 291,
+    "England": 277,
+    "Portugal": 274,
+    "Brazil": 269,
+    "T\u00fcrkiye": 259,
+    "Russia": 252,
+    "Belgium": 250,
+    "Denmark": 212,
+    "Italy": 206,
+    "Greece": 163,
+    "Argentina": 124,
+    "Scotland": 123,
+    "Serbia": 80,
+    "Sweden": 80,
+    "Morocco": 78,
+    "Croatia": 74
+  },
+  "created_at": "2025-06-13T15:36:06.624754",
+  "model_used": "all-MiniLM-L6-v2"
+}

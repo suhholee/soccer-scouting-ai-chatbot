@@ -1,1 +1,1 @@
-# soccer-scouting-ai-chatbot
+# ai-soccer-scout-chatbot

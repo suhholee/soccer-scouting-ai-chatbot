@@ -1,0 +1,2508 @@
+{
+  "test_session": {
+    "timestamp": "2025-06-13T20:45:11.695669",
+    "total_tests": 14,
+    "embeddings_dir": "../embeddings",
+    "gemini_api_key_provided": true
+  },
+  "test_results": [
+    {
+      "test_info": {
+        "query": "young strikers under 25",
+        "category": "Basic Position + Age",
+        "description": "Simple position and age filter"
+      },
+      "result": {
+        "success": true,
+        "query": "young strikers under 25",
+        "ai_response": "**1. Match Assessment:**\n\nThe provided list presents a mixed bag of strikers under 25, though only Nathan Fraser truly meets the under-25 criteria.  Several players show concerningly low goal-scoring ratios despite their ages, highlighting a need for deeper performance analysis beyond simple goals and assists.  The relevance scores suggest significant discrepancies in overall potential, requiring careful consideration.\n\n\n**2. Top Recommendation:**\n\nAmin Sarr (Player 4) is my top recommendation.  His €4 million market value reflects his potential, validated by a relatively strong goal and assist output (15 goals, 9 assists in 89 appearances) despite playing for Verona. His upward trajectory and rising market value suggest he's improving and attracting attention. His excellent discipline is a crucial attribute for a modern striker, mitigating potential behavioral risks.  His style likely incorporates a blend of clinical finishing and creative playmaking, making him a versatile asset.\n\n**3. Alternative Options:**\n\nDavid Min (Player 2) offers a more affordable option with reasonable goal output, but his overall production needs improvement.  Nathan Fraser (Player 3), while young, presents a high-risk, high-reward profile. His current low output and declining market value necessitate significant due diligence to understand the reasons behind his limited game time at Wolverhampton Wanderers.  Further investigation is crucial to assess his true potential.\n\n**4. Key Statistics:**\n\nGoal-to-game ratio is paramount, but assists per game, a metric often overlooked, provides valuable insight into a striker's overall contribution to the team's attacking play.  Contextualizing these statistics against the level of competition faced is crucial for a fair evaluation.  For instance,  Sarr’s stats are more impressive considering the Serie A competition level.\n\n**5. Scouting Concerns:**\n\nWhile several players demonstrate \"excellent discipline,\" this should be independently verified through background checks and on-field observation.  Additionally, the low goal-to-game ratios for several players—despite their age—indicate a potential need for improved clinical finishing or tactical support, necessitating detailed performance analysis to isolate the causal factors.\n\n**6. Final Verdict:**\n\nI recommend prioritizing Amin Sarr for immediate follow-up.  His proven output, rising market value, and overall profile suggest he represents the best return on investment.  However, further investigation into Nathan Fraser is warranted given his age and potential, but acknowledging the high level of risk associated.  The other players present less compelling cases based on the limited data provided.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": -1.12,
+            "basic_info": {
+              "name": "Kieran Phillips",
+              "age": 25,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "England",
+              "current_club": "Ross County Football Club",
+              "market_value": 350000
+            },
+            "performance": {
+              "total_appearances": 11,
+              "total_goals": 2,
+              "total_assists": 1,
+              "goals_per_game": 0.182,
+              "assists_per_game": 0.091,
+              "minutes_played": 669
+            },
+            "profile": {
+              "experience_level": "young",
+              "goal_scoring_ability": "rare",
+              "discipline": "excellent",
+              "transfer_count": 16,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 350000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Kieran Phillips is a 25-year-old Attack (Centre-Forward) from England. currently playing for Ross County Football Club. Physical: 189.0cm, right-footed. Career: 11 apps, 2 goals, 1 assists. Performance: 0.18 goals/game, 0.09 assists/game, 0.40 contributions/90min. Profile: young player, rare goalscorer, excellent discipline. Market value: €350,000. Value trending upward. Agent: Wasserman."
+          },
+          {
+            "rank": 2,
+            "relevance_score": -3.617,
+            "basic_info": {
+              "name": "David Min",
+              "age": 25,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Netherlands",
+              "current_club": "Football Club Utrecht",
+              "market_value": 1000000
+            },
+            "performance": {
+              "total_appearances": 61,
+              "total_goals": 15,
+              "total_assists": 3,
+              "goals_per_game": 0.246,
+              "assists_per_game": 0.049,
+              "minutes_played": 3120
+            },
+            "profile": {
+              "experience_level": "developing",
+              "goal_scoring_ability": "occasional",
+              "discipline": "good",
+              "transfer_count": 5,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 1000000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "David Min is a 25-year-old Attack (Centre-Forward) from Netherlands. currently playing for Football Club Utrecht. Physical: tall 194.0cm, right-footed. Career: 61 apps, 15 goals, 3 assists. Performance: 0.25 goals/game, 0.05 assists/game, 0.52 contributions/90min. Profile: developing player, occasional goalscorer, good discipline. Market value: €1,000,000. Value trending upward. Agent: Grand Stand."
+          },
+          {
+            "rank": 3,
+            "relevance_score": -5.515,
+            "basic_info": {
+              "name": "Nathan Fraser",
+              "age": 20,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Ireland",
+              "current_club": "Wolverhampton Wanderers Football Club",
+              "market_value": 600000
+            },
+            "performance": {
+              "total_appearances": 11,
+              "total_goals": 2,
+              "total_assists": 1,
+              "goals_per_game": 0.182,
+              "assists_per_game": 0.091,
+              "minutes_played": 351
+            },
+            "profile": {
+              "experience_level": "young",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 5,
+              "career_trajectory": "stable"
+            },
+            "market_info": {
+              "peak_value": 1000000.0,
+              "value_trend": "declining",
+              "value_change": -0.25
+            },
+            "scouting_summary": "Nathan Fraser is a 20-year-old Attack (Centre-Forward) from Ireland. currently playing for Wolverhampton Wanderers Football Club. Physical: 188.0cm, right-footed. Career: 11 apps, 2 goals, 1 assists. Performance: 0.18 goals/game, 0.09 assists/game, 0.77 contributions/90min. Profile: young player, rare goalscorer, good discipline, big game experience. Experience: Top 5 leagues: premier league. Market value: €600,000. Peak value: €1,000,000. Value declining."
+          },
+          {
+            "rank": 4,
+            "relevance_score": -6.321,
+            "basic_info": {
+              "name": "Amin Sarr",
+              "age": 24,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Sweden",
+              "current_club": "Verona Hellas Football Club",
+              "market_value": 4000000
+            },
+            "performance": {
+              "total_appearances": 89,
+              "total_goals": 15,
+              "total_assists": 9,
+              "goals_per_game": 0.169,
+              "assists_per_game": 0.101,
+              "minutes_played": 5230
+            },
+            "profile": {
+              "experience_level": "developing",
+              "goal_scoring_ability": "rare",
+              "discipline": "excellent",
+              "transfer_count": 12,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 9000000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Amin Sarr is a 24-year-old Attack (Centre-Forward) from Sweden. currently playing for Verona Hellas Football Club. Physical: 188.0cm, right-footed. Career: 89 apps, 15 goals, 9 assists. Performance: 0.17 goals/game, 0.10 assists/game, 0.41 contributions/90min. Profile: developing player, rare goalscorer, excellent discipline, big game experience. Experience: Top 5 leagues: serie a, ligue 1, bundesliga. Market value: €4,000,000. Peak value: €9,000,000. Value trending upward. Contract expiring soon."
+          },
+          {
+            "rank": 5,
+            "relevance_score": -6.644,
+            "basic_info": {
+              "name": "Seb Palmer-Houlden",
+              "age": 21,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "England",
+              "current_club": "Dundee Football Club",
+              "market_value": 150000
+            },
+            "performance": {
+              "total_appearances": 28,
+              "total_goals": 5,
+              "total_assists": 1,
+              "goals_per_game": 0.179,
+              "assists_per_game": 0.036,
+              "minutes_played": 1394
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "excellent",
+              "transfer_count": 9,
+              "career_trajectory": "stable"
+            },
+            "market_info": {
+              "peak_value": 150000.0,
+              "value_trend": "stable",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Seb Palmer-Houlden is a 21-year-old Attack (Centre-Forward) from England. currently playing for Dundee Football Club. Career: 28 apps, 5 goals, 1 assists. Performance: 0.18 goals/game, 0.04 assists/game, 0.39 contributions/90min. Profile: emerging player, rare goalscorer, excellent discipline. Market value: €150,000. Contract expiring soon. Agent: VMP."
+          }
+        ],
+        "total_candidates_found": 14,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:35:49.639791",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 5.003681
+      },
+      "test_number": 1
+    },
+    {
+      "test_info": {
+        "query": "experienced goalkeepers over 30",
+        "category": "Basic Position + Age",
+        "description": "Veteran players in specific position"
+      },
+      "result": {
+        "success": true,
+        "query": "experienced goalkeepers over 30",
+        "ai_response": "**1. Match Assessment:**  All five goalkeepers meet the over-30 criteria. However, their suitability varies considerably based on current form, market value, and career trajectory.  The list presents a mix of players experiencing peak performance and those in a decline phase, demanding careful consideration of their respective profiles.\n\n**2. Top Recommendation:**  Robin Zentner represents the most compelling option. At 30, he's at or near his peak value, showing a stable career trajectory with consistent performance at Mainz 05. His high relevance score, coupled with his relatively affordable market value, suggests excellent value for money.  Zentner's profile indicates solid discipline and consistent appearances, crucial attributes for a reliable goalkeeper. His style, while needing further in-depth analysis, points towards dependability and a strong positional sense.\n\n**3. Alternative Options:** Bruno Varela, while having a rising market value and an upward trajectory, presents a higher risk given his numerous transfers. Mathew Ryan, despite his experience, shows a declining market value and trajectory, suggesting a potential decline in performance.  These players provide viable alternatives depending on risk tolerance and budget constraints.\n\n**4. Key Statistics:**  While goals and assists are irrelevant for goalkeepers, save percentage, clean sheets per game, and post-shot expected goals (PSxG) – a measure of shot difficulty – are crucial.  A thorough examination of these metrics across Zentner's career and recent seasons is needed to fully assess his capabilities. Further analysis of error rates and distribution quality is also necessary.\n\n**5. Scouting Concerns:**  Further investigation into Zentner's injury history is essential, as consistent availability is paramount for a goalkeeper. Additionally, a detailed analysis of his performance against top-tier opposition, compared to lower-ranked teams, is required to fully gauge his capabilities at the elite level.  For all players, a thorough medical evaluation is paramount before any transfer is finalized.\n\n\n**6. Final Verdict:**  While all players presented are experienced, Robin Zentner emerges as the most strategically sound recommendation, presenting the best balance of experience, current performance, and market value.  A deeper dive into his advanced statistics and a thorough medical check are recommended before finalizing any contractual negotiations.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": 4.618,
+            "basic_info": {
+              "name": "Robin Zentner",
+              "age": 30,
+              "position": "Goalkeeper",
+              "sub_position": "Goalkeeper",
+              "nationality": "Germany",
+              "current_club": "1. Fußball- und Sportverein Mainz 05",
+              "market_value": 4000000
+            },
+            "performance": {
+              "total_appearances": 165,
+              "total_goals": 0,
+              "total_assists": 0,
+              "goals_per_game": 0.0,
+              "assists_per_game": 0.0,
+              "minutes_played": 14925
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 2,
+              "career_trajectory": "stable"
+            },
+            "market_info": {
+              "peak_value": 5000000.0,
+              "value_trend": "stable",
+              "value_change": 0.333
+            },
+            "scouting_summary": "Robin Zentner is a 30-year-old Goalkeeper from Germany. currently playing for 1. Fußball- und Sportverein Mainz 05. Physical: tall 195.0cm, right-footed. Career: 165 apps, 0 goals, 0 assists. Performance: 0.00 goals/game, 0.00 assists/game. Profile: experienced player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: bundesliga. Market value: €4,000,000. Agent: W&K Fairplay."
+          },
+          {
+            "rank": 2,
+            "relevance_score": 4.023,
+            "basic_info": {
+              "name": "Bruno Varela",
+              "age": 30,
+              "position": "Goalkeeper",
+              "sub_position": "Goalkeeper",
+              "nationality": "Cape Verde",
+              "current_club": "Vitória Sport Clube",
+              "market_value": 3500000
+            },
+            "performance": {
+              "total_appearances": 157,
+              "total_goals": 0,
+              "total_assists": 1,
+              "goals_per_game": 0.0,
+              "assists_per_game": 0.006,
+              "minutes_played": 14115
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 9,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 4000000.0,
+              "value_trend": "rising",
+              "value_change": -0.125
+            },
+            "scouting_summary": "Bruno Varela is a 30-year-old Goalkeeper from Cape Verde. currently playing for Vitória Sport Clube. Physical: tall 191.0cm, right-footed. Career: 157 apps, 0 goals, 1 assists. Performance: 0.00 goals/game, 0.01 assists/game, 0.01 contributions/90min. Profile: experienced player, non_scorer goalscorer, good discipline, big game experience. Experience: European: europa league. Market value: €3,500,000. Peak value: €8,000,000. Value trending upward. Contract expires within 18 months."
+          },
+          {
+            "rank": 3,
+            "relevance_score": 2.319,
+            "basic_info": {
+              "name": "Mathew Ryan",
+              "age": 33,
+              "position": "Goalkeeper",
+              "sub_position": "Goalkeeper",
+              "nationality": "Australia",
+              "current_club": "Racing Club de Lens",
+              "market_value": 2500000
+            },
+            "performance": {
+              "total_appearances": 114,
+              "total_goals": 0,
+              "total_assists": 0,
+              "goals_per_game": 0.0,
+              "assists_per_game": 0.0,
+              "minutes_played": 10350
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "excellent",
+              "transfer_count": 11,
+              "career_trajectory": "downward"
+            },
+            "market_info": {
+              "peak_value": 8000000.0,
+              "value_trend": "declining",
+              "value_change": -0.286
+            },
+            "scouting_summary": "Mathew Ryan is a 33-year-old Goalkeeper from Australia. currently playing for Racing Club de Lens. Physical: 184.0cm, right-footed. Career: 114 apps, 0 goals, 0 assists. Performance: 0.00 goals/game, 0.00 assists/game. Profile: experienced player, non_scorer goalscorer, excellent discipline, big game experience. Experience: Top 5 leagues: premier league, ligue 1, la liga; European: europa league, champions league. Market value: €2,500,000. Peak value: €10,000,000. Value declining. Contract expiring soon."
+          },
+          {
+            "rank": 4,
+            "relevance_score": 2.3,
+            "basic_info": {
+              "name": "Bernd Leno",
+              "age": 33,
+              "position": "Goalkeeper",
+              "sub_position": "Goalkeeper",
+              "nationality": "Germany",
+              "current_club": "Fulham Football Club",
+              "market_value": 11000000
+            },
+            "performance": {
+              "total_appearances": 175,
+              "total_goals": 0,
+              "total_assists": 1,
+              "goals_per_game": 0.0,
+              "assists_per_game": 0.006,
+              "minutes_played": 15772
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 2,
+              "career_trajectory": "downward"
+            },
+            "market_info": {
+              "peak_value": 32000000.0,
+              "value_trend": "declining",
+              "value_change": -0.154
+            },
+            "scouting_summary": "Bernd Leno is a 33-year-old Goalkeeper from Germany. currently playing for Fulham Football Club. Physical: 190.0cm, right-footed. Career: 175 apps, 0 goals, 1 assists. Performance: 0.00 goals/game, 0.01 assists/game, 0.01 contributions/90min. Profile: experienced player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: premier league; European: europa league. Significant market value: €11,000,000. Peak value: €35,000,000. Value declining. Agent: fair-sport GmbH."
+          },
+          {
+            "rank": 5,
+            "relevance_score": 2.276,
+            "basic_info": {
+              "name": "Nick Pope",
+              "age": 33,
+              "position": "Goalkeeper",
+              "sub_position": "Goalkeeper",
+              "nationality": "England",
+              "current_club": "Newcastle United Football Club",
+              "market_value": 10000000
+            },
+            "performance": {
+              "total_appearances": 169,
+              "total_goals": 0,
+              "total_assists": 0,
+              "goals_per_game": 0.0,
+              "assists_per_game": 0.0,
+              "minutes_played": 15138
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 4,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 20000000.0,
+              "value_trend": "rising",
+              "value_change": -0.286
+            },
+            "scouting_summary": "Nick Pope is a 33-year-old Goalkeeper from England. currently playing for Newcastle United Football Club. Physical: tall 198.0cm, right-footed. Career: 169 apps, 0 goals, 0 assists. Performance: 0.00 goals/game, 0.00 assists/game. Profile: experienced player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: premier league; European: champions league. Significant market value: €10,000,000. Peak value: €20,000,000. Value trending upward. Contract expires within 18 months. Agent: CAA Stellar."
+          }
+        ],
+        "total_candidates_found": 33,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:35:58.654598",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 5.164744
+      },
+      "test_number": 2
+    },
+    {
+      "test_info": {
+        "query": "wingers from Premier League",
+        "category": "League-Specific",
+        "description": "Position + specific league"
+      },
+      "result": {
+        "success": true,
+        "query": "wingers from Premier League",
+        "ai_response": "**1. Match Assessment:** The provided list offers a mixed bag of wingers, encompassing veteran experience and exciting youth potential. However, the sample suffers from a lack of prolific goal-scoring wingers, a crucial element for top Premier League clubs.  The overall quality relative to current Premier League standards is somewhat inconsistent.\n\n**2. Top Recommendation:** Keane Lewis-Potter (Player 3) emerges as the top recommendation.  At 24, he's entering his prime, possesses a rising market value, and plays for a strong Premier League club, Brentford. While his goal and assist numbers are modest (reflecting potentially a system-related issue), his age, market trajectory, and current level suggest a high ceiling for improvement. His profile indicates a disciplined player with potential to increase his offensive output.\n\n**3. Alternative Options:**  Ryan Fraser (Player 1), despite his age and declining market value, warrants consideration due to his Premier League experience.  His assist numbers are relatively higher than other candidates.  Conversely,  Luis Guilherme (Player 4) presents an intriguing high-risk, high-reward prospect.  His potential is immense, but his lack of senior-level output necessitates extensive further observation.\n\n**4. Key Statistics:**  While goals and assists per game are important, focusing solely on these metrics is insufficient. Market value trends (rising or falling) and age significantly influence a player’s overall potential and current worth.  Moreover, the relevance score – though unexplained – suggests a more comprehensive evaluation beyond basic statistics is utilized in the scouting process.\n\n\n**5. Scouting Concerns:**  For Lewis-Potter, a deeper dive into his role within Brentford's tactical system is crucial.  Understanding his limited goal contributions requires an assessment of his opportunities and effectiveness within the team's structure. Similarly,  it is important to establish whether the limited game time for Luis Guilherme is a reflection of his potential or tactical decisions.\n\n**6. Final Verdict:**  Keane Lewis-Potter represents the most promising acquisition given his age, upward market trend, and potential for growth within a top-flight environment.  However, thorough analysis of his tactical role at Brentford is paramount before making a final decision.  Further scouting of Luis Guilherme is also recommended, but he is high-risk.  Further data on the \"relevance score\" would aid decision-making.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": 4.09,
+            "basic_info": {
+              "name": "Ryan Fraser",
+              "age": 31,
+              "position": "Attack",
+              "sub_position": "Left Winger",
+              "nationality": "Scotland",
+              "current_club": "Southampton Football Club",
+              "market_value": 3000000
+            },
+            "performance": {
+              "total_appearances": 77,
+              "total_goals": 4,
+              "total_assists": 8,
+              "goals_per_game": 0.052,
+              "assists_per_game": 0.104,
+              "minutes_played": 4182
+            },
+            "profile": {
+              "experience_level": "developing",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 6,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 22000000.0,
+              "value_trend": "declining",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Ryan Fraser is a 31-year-old Attack (Left Winger) from Scotland. currently playing for Southampton Football Club. Physical: compact 163.0cm, right-footed. Career: 77 apps, 4 goals, 8 assists. Performance: 0.05 goals/game, 0.10 assists/game, 0.26 contributions/90min. Profile: developing player, rare goalscorer, good discipline, big game experience. Experience: Top 5 leagues: premier league. Market value: €3,000,000. Peak value: €30,000,000. Value declining. Contract expires within 18 months. Agent: Wasserman."
+          },
+          {
+            "rank": 2,
+            "relevance_score": 3.929,
+            "basic_info": {
+              "name": "Andros Townsend",
+              "age": 33,
+              "position": "Attack",
+              "sub_position": "Right Winger",
+              "nationality": "England",
+              "current_club": "Antalyaspor",
+              "market_value": 1000000
+            },
+            "performance": {
+              "total_appearances": 119,
+              "total_goals": 7,
+              "total_assists": 11,
+              "goals_per_game": 0.059,
+              "assists_per_game": 0.092,
+              "minutes_played": 6378
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "rare",
+              "discipline": "excellent",
+              "transfer_count": 6,
+              "career_trajectory": "downward"
+            },
+            "market_info": {
+              "peak_value": 12000000.0,
+              "value_trend": "declining",
+              "value_change": -0.167
+            },
+            "scouting_summary": "Andros Townsend is a 33-year-old Attack (Right Winger) from England. currently playing for Antalyaspor. Physical: 181.0cm, left-footed. Career: 119 apps, 7 goals, 11 assists. Performance: 0.06 goals/game, 0.09 assists/game, 0.25 contributions/90min. Profile: experienced player, rare goalscorer, excellent discipline, big game experience. Experience: Top 5 leagues: premier league. Market value: €1,000,000. Peak value: €15,000,000. Value declining. Contract expires within 18 months. Agent: Unique Sports Group."
+          },
+          {
+            "rank": 3,
+            "relevance_score": 3.919,
+            "basic_info": {
+              "name": "Keane Lewis-Potter",
+              "age": 24,
+              "position": "Attack",
+              "sub_position": "Left Winger",
+              "nationality": "England",
+              "current_club": "Brentford Football Club",
+              "market_value": 23000000
+            },
+            "performance": {
+              "total_appearances": 81,
+              "total_goals": 5,
+              "total_assists": 5,
+              "goals_per_game": 0.062,
+              "assists_per_game": 0.062,
+              "minutes_played": 4964
+            },
+            "profile": {
+              "experience_level": "developing",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 4,
+              "career_trajectory": "unknown"
+            },
+            "market_info": {
+              "peak_value": 23000000.0,
+              "value_trend": "rising",
+              "value_change": 0.15
+            },
+            "scouting_summary": "Keane Lewis-Potter is a 24-year-old Attack (Left Winger) from England. currently playing for Brentford Football Club. Physical: 170.0cm, right-footed. Career: 81 apps, 5 goals, 5 assists. Performance: 0.06 goals/game, 0.06 assists/game, 0.18 contributions/90min. Profile: developing player, rare goalscorer, good discipline, big game experience. Experience: Top 5 leagues: premier league. Significant market value: €23,000,000. Value trending upward."
+          },
+          {
+            "rank": 4,
+            "relevance_score": 3.249,
+            "basic_info": {
+              "name": "Luis Guilherme",
+              "age": 19,
+              "position": "Attack",
+              "sub_position": "Right Winger",
+              "nationality": "Brazil",
+              "current_club": "West Ham United Football Club",
+              "market_value": 18000000
+            },
+            "performance": {
+              "total_appearances": 10,
+              "total_goals": 0,
+              "total_assists": 0,
+              "goals_per_game": 0.0,
+              "assists_per_game": 0.0,
+              "minutes_played": 106
+            },
+            "profile": {
+              "experience_level": "young",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "excellent",
+              "transfer_count": 2,
+              "career_trajectory": "unknown"
+            },
+            "market_info": {
+              "peak_value": 24000000.0,
+              "value_trend": "rising",
+              "value_change": -0.182
+            },
+            "scouting_summary": "Luis Guilherme is a 19-year-old Attack (Right Winger) from Brazil. currently playing for West Ham United Football Club. Physical: 175.0cm, left-footed. Career: 10 apps, 0 goals, 0 assists. Performance: 0.00 goals/game, 0.00 assists/game. Profile: young player, non_scorer goalscorer, excellent discipline, big game experience. Experience: Top 5 leagues: premier league. Significant market value: €18,000,000. Value trending upward. Agent: Un1que Football."
+          },
+          {
+            "rank": 5,
+            "relevance_score": 3.151,
+            "basic_info": {
+              "name": "Jonathan Rowe",
+              "age": 22,
+              "position": "Attack",
+              "sub_position": "Left Winger",
+              "nationality": "England",
+              "current_club": "Olympique de Marseille",
+              "market_value": 12000000
+            },
+            "performance": {
+              "total_appearances": 37,
+              "total_goals": 2,
+              "total_assists": 3,
+              "goals_per_game": 0.054,
+              "assists_per_game": 0.081,
+              "minutes_played": 797
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 5,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 12000000.0,
+              "value_trend": "rising",
+              "value_change": 0.2
+            },
+            "scouting_summary": "Jonathan Rowe is a 22-year-old Attack (Left Winger) from England. currently playing for Olympique de Marseille. Physical: 173.0cm, right-footed. Career: 37 apps, 2 goals, 3 assists. Performance: 0.05 goals/game, 0.08 assists/game, 0.56 contributions/90min. Profile: emerging player, rare goalscorer, good discipline, big game experience. Experience: Top 5 leagues: ligue 1, premier league. Significant market value: €12,000,000. Value trending upward. Contract expiring soon. Agent: Unique Sports Group."
+          }
+        ],
+        "total_candidates_found": 19,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:36:12.761927",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 4.742206
+      },
+      "test_number": 3
+    },
+    {
+      "test_info": {
+        "query": "midfielders from top 5 european leagues",
+        "category": "League-Specific",
+        "description": "Position + top leagues group"
+      },
+      "result": {
+        "success": true,
+        "query": "midfielders from top 5 european leagues",
+        "ai_response": "**Match Assessment:** The provided list offers a mix of promising young talent and established midfielders from top European leagues.  However, the criteria for \"midfielders\" lacks specificity regarding desired attributes (e.g., defensive midfielder, attacking midfielder, playmaker).  Further clarification is needed to fully assess suitability.\n\n**Top Recommendation:**  My top recommendation is Lucas Bergvall (Player 2).  At 19, he exhibits significant upside with a clear upward trajectory.  His assist numbers (0.098 assists/game) are particularly strong for his age and league, suggesting excellent creative potential and vision.  His current market value of €25 million represents a strong investment for a player with substantial room for growth.  Bergvall's presence at Tottenham suggests a level of proven ability to compete at a high level.\n\n**Alternative Options:** Douglas Luiz (Player 3) offers a solid, experienced alternative with proven goal-scoring and assist capabilities.  His higher market value reflects his established status, making him a more expensive, but potentially more reliable, option.  Mikel Jauregizar (Player 1) is intriguing given his age and potential, but his goal contribution needs to improve significantly to justify his current valuation.\n\n**Key Statistics:**  The assist-to-game ratio is a critical indicator of creative midfield play, with Bergvall’s 0.098 significantly exceeding the others.  Conversely, Douglas Luiz's balanced goals and assists suggest a more complete all-around midfielder.  Goalscoring numbers alone are insufficient; the context (league, role) and assists are equally vital.\n\n**Scouting Concerns:** While Bergvall shows promise, his relatively limited senior appearances raise concerns about consistency and potential adaptation challenges to a new environment.  Further investigation into his physical capabilities, tactical adaptability, and injury history is essential.  Similarly, Jauregizar's low goal involvement requires further assessment to determine if this reflects limitations or a specific tactical role.\n\n**Final Verdict:** Based on the available data, Lucas Bergvall (Player 2) is the most compelling prospect, representing high potential with significant upside for future growth.  Further due diligence, including live scouting, is recommended to confirm this assessment.  Douglas Luiz serves as a viable alternative should budget or immediate impact be a higher priority.  More information on the specific needs and tactical system of the target club is required for a definitive, holistic recommendation.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": 5.274,
+            "basic_info": {
+              "name": "Mikel Jauregizar",
+              "age": 21,
+              "position": "Midfield",
+              "sub_position": "Central Midfield",
+              "nationality": "Spain",
+              "current_club": "Athletic Club Bilbao",
+              "market_value": 20000000
+            },
+            "performance": {
+              "total_appearances": 48,
+              "total_goals": 2,
+              "total_assists": 3,
+              "goals_per_game": 0.042,
+              "assists_per_game": 0.062,
+              "minutes_played": 2742
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "average",
+              "transfer_count": 4,
+              "career_trajectory": "unknown"
+            },
+            "market_info": {
+              "peak_value": 20000000.0,
+              "value_trend": "rising",
+              "value_change": 1.0
+            },
+            "scouting_summary": "Mikel Jauregizar is a 21-year-old Midfield (Central Midfield) from Spain. currently playing for Athletic Club Bilbao. Physical: 177.0cm, right-footed. Career: 48 apps, 2 goals, 3 assists. Performance: 0.04 goals/game, 0.06 assists/game, 0.16 contributions/90min. Profile: emerging player, non_scorer goalscorer, average discipline, big game experience. Experience: Top 5 leagues: la liga; European: europa league. Significant market value: €20,000,000. Value trending upward. Agent: YOU FIRST."
+          },
+          {
+            "rank": 2,
+            "relevance_score": 5.147,
+            "basic_info": {
+              "name": "Lucas Bergvall",
+              "age": 19,
+              "position": "Midfield",
+              "sub_position": "Central Midfield",
+              "nationality": "Sweden",
+              "current_club": "Tottenham Hotspur Football Club",
+              "market_value": 25000000
+            },
+            "performance": {
+              "total_appearances": 41,
+              "total_goals": 1,
+              "total_assists": 4,
+              "goals_per_game": 0.024,
+              "assists_per_game": 0.098,
+              "minutes_played": 2110
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "average",
+              "transfer_count": 5,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 25000000.0,
+              "value_trend": "rising",
+              "value_change": 1.083
+            },
+            "scouting_summary": "Lucas Bergvall is a 19-year-old Midfield (Central Midfield) from Sweden. currently playing for Tottenham Hotspur Football Club. Physical: 187.0cm, right-footed. Career: 41 apps, 1 goals, 4 assists. Performance: 0.02 goals/game, 0.10 assists/game, 0.21 contributions/90min. Profile: emerging player, non_scorer goalscorer, average discipline, big game experience. Experience: Top 5 leagues: premier league; European: europa league. Significant market value: €25,000,000. Value trending upward. Agent: Nordic Sky."
+          },
+          {
+            "rank": 3,
+            "relevance_score": 4.204,
+            "basic_info": {
+              "name": "Douglas Luiz",
+              "age": 27,
+              "position": "Midfield",
+              "sub_position": "Central Midfield",
+              "nationality": "Brazil",
+              "current_club": "Juventus Football Club",
+              "market_value": 38000000
+            },
+            "performance": {
+              "total_appearances": 187,
+              "total_goals": 19,
+              "total_assists": 19,
+              "goals_per_game": 0.102,
+              "assists_per_game": 0.102,
+              "minutes_played": 14336
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "rare",
+              "discipline": "average",
+              "transfer_count": 6,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 70000000.0,
+              "value_trend": "rising",
+              "value_change": -0.156
+            },
+            "scouting_summary": "Douglas Luiz is a 27-year-old Midfield (Central Midfield) from Brazil. currently playing for Juventus Football Club. Physical: 177.0cm, right-footed. Career: 187 apps, 19 goals, 19 assists. Performance: 0.10 goals/game, 0.10 assists/game, 0.24 contributions/90min. Profile: experienced player, rare goalscorer, average discipline, big game experience. Experience: Top 5 leagues: premier league, serie a; European: champions league. Significant market value: €38,000,000. Peak value: €70,000,000. Value trending upward. Agent: Bertolucci Sports."
+          },
+          {
+            "rank": 4,
+            "relevance_score": 4.046,
+            "basic_info": {
+              "name": "Giovani Lo Celso",
+              "age": 29,
+              "position": "Midfield",
+              "sub_position": "Central Midfield",
+              "nationality": "Argentina",
+              "current_club": "Real Betis Balompié S.A.D.",
+              "market_value": 20000000
+            },
+            "performance": {
+              "total_appearances": 153,
+              "total_goals": 18,
+              "total_assists": 13,
+              "goals_per_game": 0.118,
+              "assists_per_game": 0.085,
+              "minutes_played": 8322
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "rare",
+              "discipline": "average",
+              "transfer_count": 15,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 40000000.0,
+              "value_trend": "declining",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Giovani Lo Celso is a 29-year-old Midfield (Central Midfield) from Argentina. currently playing for Real Betis Balompié S.A.D.. Physical: 177.0cm, left-footed. Career: 153 apps, 18 goals, 13 assists. Performance: 0.12 goals/game, 0.09 assists/game, 0.34 contributions/90min. Profile: experienced player, rare goalscorer, average discipline, big game experience. Experience: Top 5 leagues: premier league, la liga; European: champions league, europa league. Significant market value: €20,000,000. Peak value: €50,000,000. Value declining. Agent: DCGLOBALSL."
+          },
+          {
+            "rank": 5,
+            "relevance_score": 3.948,
+            "basic_info": {
+              "name": "Carlos Soler",
+              "age": 28,
+              "position": "Midfield",
+              "sub_position": "Central Midfield",
+              "nationality": "Spain",
+              "current_club": "West Ham United Football Club",
+              "market_value": 20000000
+            },
+            "performance": {
+              "total_appearances": 152,
+              "total_goals": 21,
+              "total_assists": 11,
+              "goals_per_game": 0.138,
+              "assists_per_game": 0.072,
+              "minutes_played": 8907
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 5,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 50000000.0,
+              "value_trend": "declining",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Carlos Soler is a 28-year-old Midfield (Central Midfield) from Spain. currently playing for West Ham United Football Club. Physical: 180.0cm, right-footed. Career: 152 apps, 21 goals, 11 assists. Performance: 0.14 goals/game, 0.07 assists/game, 0.32 contributions/90min. Profile: experienced player, rare goalscorer, good discipline, big game experience. Experience: Top 5 leagues: la liga, ligue 1, premier league; European: champions league. Significant market value: €20,000,000. Peak value: €50,000,000. Value declining. Contract expiring soon. Agent: AS1."
+          }
+        ],
+        "total_candidates_found": 6,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:36:21.302560",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 4.112835
+      },
+      "test_number": 4
+    },
+    {
+      "test_info": {
+        "query": "brazilian attacking midfielders",
+        "category": "Nationality + Position",
+        "description": "Specific nationality and position"
+      },
+      "result": {
+        "success": true,
+        "query": "brazilian attacking midfielders",
+        "ai_response": "**1. Match Assessment:**\n\nThe scouting request for Brazilian attacking midfielders yields a diverse pool.  Matheusinho and Lucas Fernandes, while possessing upward trajectories, present limited data to form strong conclusions.  Andreas Pereira stands out significantly with a superior track record, albeit at a considerably higher price point.  The request's criteria aren't precisely defined, leading to varied suitability across candidates.\n\n**2. Top Recommendation:**\n\nAndreas Pereira is my top recommendation. His extensive experience at a high level (Fulham, Manchester United) immediately differentiates him.  While labeled a \"rare goalscorer,\" his contributions extend beyond just goals; 0.167 assists per game demonstrates exceptional playmaking ability.  His market value reflects his established quality and potential for continued growth, making him a worthwhile investment despite the higher cost. His style is characterized by intelligent movement, incisive passing, and a capacity to create chances from various positions.\n\n\n**3. Alternative Options:**\n\nLucas Fernandes presents a potentially cost-effective option with an upward trajectory. However, his limited production (1 goal, 2 assists in 29 appearances) needs further investigation. Matheusinho's minuscule sample size of 3 appearances renders any assessment premature; he requires significantly more observation before a reasonable judgment can be made.\n\n**4. Key Statistics:**\n\nAssists per game is the most critical metric. Pereira's 0.167 significantly surpasses the others, highlighting his creativity and ability to directly influence goal-scoring opportunities.  While goals/game is essential, a player's contribution in a dynamic attacking role often manifests more through assists and key passes, which unfortunately, aren't explicitly provided here.\n\n**5. Scouting Concerns:**\n\nThe limited data for Matheusinho and Lucas Fernandes is a major concern.  Further in-depth scouting reports with detailed performance analysis, including key passes, successful dribbles, and defensive contributions, are crucial for a more complete picture. For Pereira, the “average discipline” tag warrants closer examination of his disciplinary record and on-field conduct.\n\n**6. Final Verdict:**\n\nWhile further investigation into all three is recommended, particularly Matheusinho and Lucas Fernandes, Andreas Pereira’s proven ability at a higher level justifies prioritizing his assessment.  His statistics and experience outweigh the higher price tag in this instance, positioning him as the most promising acquisition.  A thorough background check is crucial to addressing the \"average discipline\" label.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": 5.926,
+            "basic_info": {
+              "name": "Matheusinho",
+              "age": 27,
+              "position": "Midfield",
+              "sub_position": "Attacking Midfield",
+              "nationality": "Brazil",
+              "current_club": "Clube Desportivo Santa Clara",
+              "market_value": 2000000
+            },
+            "performance": {
+              "total_appearances": 3,
+              "total_goals": 0,
+              "total_assists": 0,
+              "goals_per_game": 0.0,
+              "assists_per_game": 0.0,
+              "minutes_played": 34
+            },
+            "profile": {
+              "experience_level": "young",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "excellent",
+              "transfer_count": 7,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 2000000.0,
+              "value_trend": "rising",
+              "value_change": 0.111
+            },
+            "scouting_summary": "Matheusinho is a 27-year-old Midfield (Attacking Midfield) from Brazil. currently playing for Clube Desportivo Santa Clara. Physical: compact 164.0cm, right-footed. Career: 3 apps, 0 goals, 0 assists. Performance: 0.00 goals/game, 0.00 assists/game. Profile: young player, non_scorer goalscorer, excellent discipline. Market value: €2,000,000. Value trending upward. Agent: DK."
+          },
+          {
+            "rank": 2,
+            "relevance_score": 5.904,
+            "basic_info": {
+              "name": "Lucas Fernandes",
+              "age": 27,
+              "position": "Midfield",
+              "sub_position": "Attacking Midfield",
+              "nationality": "Brazil",
+              "current_club": "Avs - Futebol SAD",
+              "market_value": 1800000
+            },
+            "performance": {
+              "total_appearances": 29,
+              "total_goals": 1,
+              "total_assists": 2,
+              "goals_per_game": 0.035,
+              "assists_per_game": 0.069,
+              "minutes_played": 2097
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 10,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 2000000.0,
+              "value_trend": "stable",
+              "value_change": -0.1
+            },
+            "scouting_summary": "Lucas Fernandes is a 27-year-old Midfield (Attacking Midfield) from Brazil. currently playing for Avs - Futebol SAD. Physical: 175.0cm, right-footed. Career: 29 apps, 1 goals, 2 assists. Performance: 0.03 goals/game, 0.07 assists/game, 0.13 contributions/90min. Profile: emerging player, non_scorer goalscorer, good discipline. Market value: €1,800,000. Contract expiring soon. Agent: Roc Nation Sports."
+          },
+          {
+            "rank": 3,
+            "relevance_score": 4.691,
+            "basic_info": {
+              "name": "Andreas Pereira",
+              "age": 29,
+              "position": "Midfield",
+              "sub_position": "Attacking Midfield",
+              "nationality": "Brazil",
+              "current_club": "Fulham Football Club",
+              "market_value": 20000000
+            },
+            "performance": {
+              "total_appearances": 162,
+              "total_goals": 12,
+              "total_assists": 27,
+              "goals_per_game": 0.074,
+              "assists_per_game": 0.167,
+              "minutes_played": 9624
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "rare",
+              "discipline": "average",
+              "transfer_count": 10,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 20000000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Andreas Pereira is a 29-year-old Midfield (Attacking Midfield) from Brazil. currently playing for Fulham Football Club. Physical: 178.0cm, right-footed. Career: 162 apps, 12 goals, 27 assists. Performance: 0.07 goals/game, 0.17 assists/game, 0.36 contributions/90min. Profile: experienced player, rare goalscorer, average discipline, big game experience. Experience: Top 5 leagues: premier league, serie a; European: champions league, europa league. Significant market value: €20,000,000. Value trending upward. Contract expires within 18 months. Agent: Bertolucci Sports."
+          }
+        ],
+        "total_candidates_found": 3,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:36:30.516801",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 4.014292
+      },
+      "test_number": 5
+    },
+    {
+      "test_info": {
+        "query": "spanish defenders in La Liga",
+        "category": "Nationality + Position + League",
+        "description": "Multiple filters combined"
+      },
+      "result": {
+        "success": true,
+        "query": "spanish defenders in La Liga",
+        "ai_response": "**1. Match Assessment:** The provided list presents a diverse range of Spanish defenders from La Liga and beyond, spanning various ages, experience levels, and playing styles.  However, the lack of detailed performance data beyond basic goals and assists limits a truly comprehensive assessment.  Further analysis of defensive actions (tackles, interceptions, clearances), passing accuracy, and aerial duel success is crucial.\n\n**2. Top Recommendation:**  While the relevance scores suggest otherwise, my top recommendation is **Aridane Hernández**. Despite his age (36), his extensive experience (122 appearances) at a competitive level like La Liga provides invaluable insight.  His consistent performance, coupled with a peak market value significantly higher than his current valuation, hints at a player whose quality may be undervalued. His upward career trajectory despite his age indicates a player who maintains high fitness and performance standards.  This makes him an ideal short-term solution for a team seeking leadership and experience, potentially as a mentor to younger players.\n\n**3. Alternative Options:**  **Pau Navarro**, at 20, represents a high-upside long-term investment.  His excellent discipline and playing for Villarreal suggest a strong tactical awareness.  However, his limited appearances necessitate further observation.  **Enric Franquesa**'s high transfer count warrants closer inspection for potential consistency issues, while his upward trajectory and offensive contributions (assists)  make him a valuable backup option.\n\n**4. Key Statistics:**  While goals and assists offer limited insight for defenders, the number of appearances holds significance, reflecting consistency and experience.  Furthermore, the upward or declining market value trends, coupled with the peak value achieved, reveals a player's potential value and market standing.  These combined factors are more meaningful than individual game performance ratios.\n\n**5. Scouting Concerns:**  The dataset lacks crucial defensive metrics. A deeper dive into individual match reports and advanced statistics is essential to assess tackling success rate, aerial dominance, passing accuracy, and defensive positioning.  The \"Relevance Score\" needs clarification regarding its calculation methodology before its validity can be confirmed.\n\n**6. Final Verdict:** I recommend prioritizing a thorough investigation of Aridane Hernández, focusing on his defensive contributions and overall fitness. While Pau Navarro offers intriguing long-term potential, Hernandez's immediate impact and potential cost-effectiveness make him the more attractive option for a club needing an experienced centre-back.  Further investigation into all candidates’ defensive metrics is crucial before making any final determinations.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": 6.107,
+            "basic_info": {
+              "name": "Sergio González",
+              "age": 33,
+              "position": "Defender",
+              "sub_position": "Centre-Back",
+              "nationality": "Spain",
+              "current_club": "Club Deportivo Leganés S.A.D.",
+              "market_value": 1500000
+            },
+            "performance": {
+              "total_appearances": 33,
+              "total_goals": 2,
+              "total_assists": 0,
+              "goals_per_game": 0.061,
+              "assists_per_game": 0.0,
+              "minutes_played": 2802
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "average",
+              "transfer_count": 4,
+              "career_trajectory": "stable"
+            },
+            "market_info": {
+              "peak_value": 1800000.0,
+              "value_trend": "rising",
+              "value_change": -0.167
+            },
+            "scouting_summary": "Sergio González is a 33-year-old Defender (Centre-Back) from Spain. currently playing for Club Deportivo Leganés S.A.D.. Physical: 189.0cm, right-footed. Career: 33 apps, 2 goals, 0 assists. Performance: 0.06 goals/game, 0.00 assists/game, 0.06 contributions/90min. Profile: emerging player, rare goalscorer, average discipline, big game experience. Experience: Top 5 leagues: la liga. Market value: €1,500,000. Value trending upward. Contract expiring soon. Agent: Roalza."
+          },
+          {
+            "rank": 2,
+            "relevance_score": 5.996,
+            "basic_info": {
+              "name": "Gaizka Larrazabal",
+              "age": 27,
+              "position": "Defender",
+              "sub_position": "Right-Back",
+              "nationality": "Spain",
+              "current_club": "Casa Pia Atlético Clube",
+              "market_value": 1500000
+            },
+            "performance": {
+              "total_appearances": 63,
+              "total_goals": 3,
+              "total_assists": 5,
+              "goals_per_game": 0.048,
+              "assists_per_game": 0.079,
+              "minutes_played": 4449
+            },
+            "profile": {
+              "experience_level": "developing",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "average",
+              "transfer_count": 7,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 2000000.0,
+              "value_trend": "declining",
+              "value_change": 0.875
+            },
+            "scouting_summary": "Gaizka Larrazabal is a 27-year-old Defender (Right-Back) from Spain. currently playing for Casa Pia Atlético Clube. Physical: 181.0cm, right-footed. Career: 63 apps, 3 goals, 5 assists. Performance: 0.05 goals/game, 0.08 assists/game, 0.16 contributions/90min. Profile: developing player, non_scorer goalscorer, average discipline, big game experience. Experience: Top 5 leagues: la liga. Market value: €1,500,000. Peak value: €2,500,000. Value declining. Contract expires within 18 months. Agent: YOU FIRST."
+          },
+          {
+            "rank": 3,
+            "relevance_score": 5.961,
+            "basic_info": {
+              "name": "Pau Navarro",
+              "age": 20,
+              "position": "Defender",
+              "sub_position": "Centre-Back",
+              "nationality": "Spain",
+              "current_club": "Villarreal Club de Fútbol S.A.D.",
+              "market_value": 1000000
+            },
+            "performance": {
+              "total_appearances": 13,
+              "total_goals": 0,
+              "total_assists": 0,
+              "goals_per_game": 0.0,
+              "assists_per_game": 0.0,
+              "minutes_played": 764
+            },
+            "profile": {
+              "experience_level": "young",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "excellent",
+              "transfer_count": 5,
+              "career_trajectory": "unknown"
+            },
+            "market_info": {
+              "peak_value": 1000000.0,
+              "value_trend": "stable",
+              "value_change": 1.0
+            },
+            "scouting_summary": "Pau Navarro is a 20-year-old Defender (Centre-Back) from Spain. currently playing for Villarreal Club de Fútbol S.A.D.. Physical: 185.0cm, right-footed. Career: 13 apps, 0 goals, 0 assists. Performance: 0.00 goals/game, 0.00 assists/game. Profile: young player, non_scorer goalscorer, excellent discipline, big game experience. Experience: Top 5 leagues: la liga. Market value: €1,000,000. Agent: Special Talent."
+          },
+          {
+            "rank": 4,
+            "relevance_score": 5.939,
+            "basic_info": {
+              "name": "Enric Franquesa",
+              "age": 28,
+              "position": "Defender",
+              "sub_position": "Left-Back",
+              "nationality": "Spain",
+              "current_club": "Club Deportivo Leganés S.A.D.",
+              "market_value": 1500000
+            },
+            "performance": {
+              "total_appearances": 31,
+              "total_goals": 1,
+              "total_assists": 3,
+              "goals_per_game": 0.032,
+              "assists_per_game": 0.097,
+              "minutes_played": 1465
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 18,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 1500000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Enric Franquesa is a 28-year-old Defender (Left-Back) from Spain. currently playing for Club Deportivo Leganés S.A.D.. Physical: 175.0cm, left-footed. Career: 31 apps, 1 goals, 3 assists. Performance: 0.03 goals/game, 0.10 assists/game, 0.25 contributions/90min. Profile: emerging player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: la liga. Market value: €1,500,000. Value trending upward. Contract expires within 18 months. Agent: AC Talent."
+          },
+          {
+            "rank": 5,
+            "relevance_score": 5.815,
+            "basic_info": {
+              "name": "Aridane Hernández",
+              "age": 36,
+              "position": "Defender",
+              "sub_position": "Centre-Back",
+              "nationality": "Spain",
+              "current_club": "Rayo Vallecano de Madrid S.A.D.",
+              "market_value": 400000
+            },
+            "performance": {
+              "total_appearances": 122,
+              "total_goals": 2,
+              "total_assists": 2,
+              "goals_per_game": 0.016,
+              "assists_per_game": 0.016,
+              "minutes_played": 10007
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 6,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 4000000.0,
+              "value_trend": "declining",
+              "value_change": -0.2
+            },
+            "scouting_summary": "Aridane Hernández is a 36-year-old Defender (Centre-Back) from Spain. currently playing for Rayo Vallecano de Madrid S.A.D.. Physical: 188.0cm, right-footed. Career: 122 apps, 2 goals, 2 assists. Performance: 0.02 goals/game, 0.02 assists/game, 0.04 contributions/90min. Profile: experienced player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: la liga. Market value: €400,000. Peak value: €4,000,000. Value declining. Contract expiring soon. Agent: JV SPORTS."
+          }
+        ],
+        "total_candidates_found": 40,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:36:43.298936",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 6.583174
+      },
+      "test_number": 6
+    },
+    {
+      "test_info": {
+        "query": "cheap strikers under 15 million euros",
+        "category": "Budget-Based",
+        "description": "Market value constraint"
+      },
+      "result": {
+        "success": true,
+        "query": "cheap strikers under 15 million euros",
+        "ai_response": "**1. Match Assessment:**\n\nAll five players fall within the specified budget of €15 million. However, their profiles reveal a diverse range of experience, performance levels, and future potential, requiring careful consideration of long-term value versus immediate impact.  The age range is significant, impacting risk and return profiles.\n\n**2. Top Recommendation:**\n\nFerran Jutglà (Player 1) emerges as the top recommendation. At 26, he offers a blend of experience and a still-rising market value. His consistent upward career trajectory and recent performances at Club Brugge demonstrate adaptability and growth.  His style is characterized by intelligent movement, a clinical finish within the box, and a surprising ability to contribute assists given his primary role.  His current market value presents exceptional value for money considering his potential for further development and increased market value.\n\n\n**3. Alternative Options:**\n\nMauro Icardi (Player 2), despite a high peak value, presents a high-risk, high-reward option. His declining trajectory requires careful assessment of his current form and motivation. Borja Mayoral (Player 3) is a solid option, offering a reliable, albeit less prolific, goalscoring output; however, his age and current market value may represent a smaller potential ROI compared to Jutglà.\n\n**4. Key Statistics:**\n\nGoals per game is the most critical metric for strikers, and Jutglà's 0.302 is respectable. While Icardi boasts a superior 0.510 goals/game, his declining trajectory and higher cost outweigh that advantage. The combination of goals and assists provides a more complete picture, but individual club strategies impact those numbers, highlighting the importance of contextual analysis.\n\n**5. Scouting Concerns:**\n\nWhile Jutglà presents a low-risk, high-potential option, a deeper dive into his playing style within Brugge's system and his potential adaptability to different tactical setups is crucial. For Icardi, a thorough assessment of his current fitness, motivation, and potential integration into the squad's dynamics is paramount.\n\n\n**6. Final Verdict:**\n\nFerran Jutglà represents the most compelling option. His current market value, rising trajectory, and performance history, coupled with a relatively low risk, provide excellent value for a club seeking a reliable and potentially high-growth striker within the specified budget.  Further detailed analysis of his current performances and potential fit within the team's strategy is recommended before a final decision.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": -8.121,
+            "basic_info": {
+              "name": "Ferran Jutglà",
+              "age": 26,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Spain",
+              "current_club": "Club Brugge Koninklijke Voetbalvereniging",
+              "market_value": 7500000
+            },
+            "performance": {
+              "total_appearances": 106,
+              "total_goals": 32,
+              "total_assists": 12,
+              "goals_per_game": 0.302,
+              "assists_per_game": 0.113,
+              "minutes_played": 5815
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "occasional",
+              "discipline": "good",
+              "transfer_count": 13,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 14000000.0,
+              "value_trend": "rising",
+              "value_change": 0.5
+            },
+            "scouting_summary": "Ferran Jutglà is a 26-year-old Attack (Centre-Forward) from Spain. currently playing for Club Brugge Koninklijke Voetbalvereniging. Physical: 175.0cm, right-footed. Career: 106 apps, 32 goals, 12 assists. Performance: 0.30 goals/game, 0.11 assists/game, 0.68 contributions/90min. Profile: experienced player, occasional goalscorer, good discipline, big game experience. Experience: European: champions league. Market value: €7,500,000. Peak value: €14,000,000. Value trending upward. Contract expires within 18 months. Agent: YOU FIRST."
+          },
+          {
+            "rank": 2,
+            "relevance_score": -8.193,
+            "basic_info": {
+              "name": "Mauro Icardi",
+              "age": 32,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Argentina",
+              "current_club": "Galatasaray Spor Kulübü",
+              "market_value": 11000000
+            },
+            "performance": {
+              "total_appearances": 145,
+              "total_goals": 74,
+              "total_assists": 27,
+              "goals_per_game": 0.51,
+              "assists_per_game": 0.186,
+              "minutes_played": 9859
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "regular",
+              "discipline": "good",
+              "transfer_count": 6,
+              "career_trajectory": "downward"
+            },
+            "market_info": {
+              "peak_value": 60000000.0,
+              "value_trend": "declining",
+              "value_change": -0.154
+            },
+            "scouting_summary": "Mauro Icardi is a 32-year-old Attack (Centre-Forward) from Argentina. currently playing for Galatasaray Spor Kulübü. Physical: 181.0cm, right-footed. Career: 145 apps, 74 goals, 27 assists. Performance: 0.51 goals/game, 0.19 assists/game, 0.92 contributions/90min. Profile: experienced player, regular goalscorer, good discipline, big game experience. Experience: Top 5 leagues: ligue 1; European: champions league, europa league. Significant market value: €11,000,000. Peak value: €100,000,000. Value declining. Contract expires within 18 months. Agent: Elevenelite."
+          },
+          {
+            "rank": 3,
+            "relevance_score": -8.325,
+            "basic_info": {
+              "name": "Borja Mayoral",
+              "age": 28,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Spain",
+              "current_club": "Getafe Club de Fútbol S.A.D. Team Dubai",
+              "market_value": 9000000
+            },
+            "performance": {
+              "total_appearances": 179,
+              "total_goals": 58,
+              "total_assists": 13,
+              "goals_per_game": 0.324,
+              "assists_per_game": 0.073,
+              "minutes_played": 10688
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "occasional",
+              "discipline": "good",
+              "transfer_count": 13,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 15000000.0,
+              "value_trend": "rising",
+              "value_change": -0.4
+            },
+            "scouting_summary": "Borja Mayoral is a 28-year-old Attack (Centre-Forward) from Spain. currently playing for Getafe Club de Fútbol S.A.D. Team Dubai. Physical: 182.0cm, right-footed. Career: 179 apps, 58 goals, 13 assists. Performance: 0.32 goals/game, 0.07 assists/game, 0.60 contributions/90min. Profile: experienced player, occasional goalscorer, good discipline, big game experience. Experience: Top 5 leagues: la liga, serie a; European: europa league. Market value: €9,000,000. Peak value: €15,000,000. Value trending upward. Agent: Footfeel ISM."
+          },
+          {
+            "rank": 4,
+            "relevance_score": -8.498,
+            "basic_info": {
+              "name": "Marko Arnautovic",
+              "age": 36,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Austria",
+              "current_club": "Football Club Internazionale Milano S.p.A.",
+              "market_value": 3500000
+            },
+            "performance": {
+              "total_appearances": 113,
+              "total_goals": 38,
+              "total_assists": 6,
+              "goals_per_game": 0.336,
+              "assists_per_game": 0.053,
+              "minutes_played": 6235
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "occasional",
+              "discipline": "good",
+              "transfer_count": 6,
+              "career_trajectory": "downward"
+            },
+            "market_info": {
+              "peak_value": 16000000.0,
+              "value_trend": "declining",
+              "value_change": -0.125
+            },
+            "scouting_summary": "Marko Arnautovic is a 36-year-old Attack (Centre-Forward) from Austria. currently playing for Football Club Internazionale Milano S.p.A.. Physical: 190.0cm, both-footed. Career: 113 apps, 38 goals, 6 assists. Performance: 0.34 goals/game, 0.05 assists/game, 0.64 contributions/90min. Profile: experienced player, occasional goalscorer, good discipline, big game experience. Experience: Top 5 leagues: serie a; European: champions league. Market value: €3,500,000. Peak value: €35,000,000. Value declining. Contract expiring soon."
+          },
+          {
+            "rank": 5,
+            "relevance_score": -8.561,
+            "basic_info": {
+              "name": "Álvaro Rodríguez",
+              "age": 20,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Uruguay",
+              "current_club": "Getafe Club de Fútbol S.A.D. Team Dubai",
+              "market_value": 2500000
+            },
+            "performance": {
+              "total_appearances": 31,
+              "total_goals": 4,
+              "total_assists": 2,
+              "goals_per_game": 0.129,
+              "assists_per_game": 0.065,
+              "minutes_played": 968
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "average",
+              "transfer_count": 5,
+              "career_trajectory": "stable"
+            },
+            "market_info": {
+              "peak_value": 6000000.0,
+              "value_trend": "rising",
+              "value_change": -0.167
+            },
+            "scouting_summary": "Álvaro Rodríguez is a 20-year-old Attack (Centre-Forward) from Uruguay. currently playing for Getafe Club de Fútbol S.A.D. Team Dubai. Physical: tall 193.0cm, left-footed. Career: 31 apps, 4 goals, 2 assists. Performance: 0.13 goals/game, 0.06 assists/game, 0.56 contributions/90min. Profile: emerging player, rare goalscorer, average discipline, big game experience. Experience: Top 5 leagues: la liga. Market value: €2,500,000. Peak value: €6,000,000. Value trending upward. Contract expiring soon. Agent: Footfeel ISM."
+          }
+        ],
+        "total_candidates_found": 8,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:36:51.248265",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 4.283443
+      },
+      "test_number": 7
+    },
+    {
+      "test_info": {
+        "query": "bargain defenders from Serie A",
+        "category": "Budget-Based + League",
+        "description": "Budget + league combination"
+      },
+      "result": {
+        "success": true,
+        "query": "bargain defenders from Serie A",
+        "ai_response": "**1. Match Assessment:** The list presents a mixed bag of Serie A defenders, largely fitting the \"bargain\" criteria with market values below €4 million.  However, the age range (28-31) suggests we're looking at players nearing or at their peak, rather than younger, potentially cheaper prospects.  The selection provides representation across various positions, including left-back, centre-back, and right-back.\n\n**2. Top Recommendation:** My top pick is Federico Baschirotto.  His €3.8 million market value, coupled with a rising trend and projected peak value of €8 million, signifies significant potential for appreciation.  A consistently performing centre-back with good discipline, Baschirotto offers a blend of experience and upside, making him a low-risk, high-reward acquisition.  His performance profile showcases reliability, a crucial trait for any defensive mainstay.\n\n\n**3. Alternative Options:** Tommaso Augello presents a compelling left-back option with a similar upward market trajectory, though his lower market value suggests a potentially riskier investment.  Lautaro Giannetti, despite his emerging status and higher goal-scoring rate (for a defender), carries question marks around discipline and his declining market value should be scrutinized further.  His age also means limited resale value.\n\n\n**4. Key Statistics:**  Assists/game and goals/game are not particularly revealing indicators of defensive effectiveness for centre-backs, but for full-backs, a higher assists/game ratio suggests attacking contribution, a valuable asset in modern football.  Market value trend and projected peak value are critical indicators of a player's current market standing and long-term potential for resale.\n\n\n**5. Scouting Concerns:**  Thorough background checks on Baschirotto's 11 transfers are necessary to understand the reasons behind these moves and assess potential off-field issues. Similarly, Giannetti's disciplinary concerns require deeper investigation, assessing the frequency and severity of infractions to ascertain if it's a recurring issue or an anomaly.  The age of all players must be considered alongside their expected longevity at a high level.\n\n\n**6. Final Verdict:**  While several options present reasonable value, Federico Baschirotto offers the most promising combination of immediate impact, future potential, and manageable financial risk.  His profile aligns strongly with the request for a bargain defender in Serie A; securing him would be a shrewd acquisition for any ambitious club.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": 1.996,
+            "basic_info": {
+              "name": "Tommaso Augello",
+              "age": 30,
+              "position": "Defender",
+              "sub_position": "Left-Back",
+              "nationality": "Italy",
+              "current_club": "Cagliari Calcio",
+              "market_value": 1800000
+            },
+            "performance": {
+              "total_appearances": 198,
+              "total_goals": 5,
+              "total_assists": 20,
+              "goals_per_game": 0.025,
+              "assists_per_game": 0.101,
+              "minutes_played": 15128
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 5,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 4000000.0,
+              "value_trend": "rising",
+              "value_change": -0.1
+            },
+            "scouting_summary": "Tommaso Augello is a 30-year-old Defender (Left-Back) from Italy. currently playing for Cagliari Calcio. Physical: 180.0cm, left-footed. Career: 198 apps, 5 goals, 20 assists. Performance: 0.03 goals/game, 0.10 assists/game, 0.15 contributions/90min. Profile: experienced player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: serie a. Market value: €1,800,000. Peak value: €4,000,000. Value trending upward. Contract expiring soon."
+          },
+          {
+            "rank": 2,
+            "relevance_score": 1.89,
+            "basic_info": {
+              "name": "Federico Baschirotto",
+              "age": 28,
+              "position": "Defender",
+              "sub_position": "Centre-Back",
+              "nationality": "Italy",
+              "current_club": "Unione Sportiva Lecce",
+              "market_value": 3800000
+            },
+            "performance": {
+              "total_appearances": 109,
+              "total_goals": 4,
+              "total_assists": 2,
+              "goals_per_game": 0.037,
+              "assists_per_game": 0.018,
+              "minutes_played": 9738
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 11,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 8000000.0,
+              "value_trend": "rising",
+              "value_change": -0.24
+            },
+            "scouting_summary": "Federico Baschirotto is a 28-year-old Defender (Centre-Back) from Italy. currently playing for Unione Sportiva Lecce. Physical: 187.0cm, right-footed. Career: 109 apps, 4 goals, 2 assists. Performance: 0.04 goals/game, 0.02 assists/game, 0.06 contributions/90min. Profile: experienced player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: serie a. Market value: €3,800,000. Peak value: €8,000,000. Value trending upward. Contract expires within 18 months. Agent: Guido Gallovich."
+          },
+          {
+            "rank": 3,
+            "relevance_score": 1.797,
+            "basic_info": {
+              "name": "Lautaro Giannetti",
+              "age": 31,
+              "position": "Defender",
+              "sub_position": "Centre-Back",
+              "nationality": "Argentina",
+              "current_club": "Udinese Calcio",
+              "market_value": 2500000
+            },
+            "performance": {
+              "total_appearances": 20,
+              "total_goals": 2,
+              "total_assists": 0,
+              "goals_per_game": 0.1,
+              "assists_per_game": 0.0,
+              "minutes_played": 1563
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "questionable",
+              "transfer_count": 2,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 5000000.0,
+              "value_trend": "declining",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Lautaro Giannetti is a 31-year-old Defender (Centre-Back) from Argentina. currently playing for Udinese Calcio. Physical: 185.0cm, right-footed. Career: 20 apps, 2 goals, 0 assists. Performance: 0.10 goals/game, 0.00 assists/game, 0.12 contributions/90min. Profile: emerging player, rare goalscorer, questionable discipline, big game experience. Experience: Top 5 leagues: serie a. Market value: €2,500,000. Peak value: €5,000,000. Value declining. Contract expires within 18 months. Agent: PRI Sports."
+          },
+          {
+            "rank": 4,
+            "relevance_score": 1.669,
+            "basic_info": {
+              "name": "Yordan Osorio",
+              "age": 31,
+              "position": "Defender",
+              "sub_position": "Centre-Back",
+              "nationality": "Venezuela",
+              "current_club": "Parma Calcio 1913",
+              "market_value": 1700000
+            },
+            "performance": {
+              "total_appearances": 35,
+              "total_goals": 0,
+              "total_assists": 0,
+              "goals_per_game": 0.0,
+              "assists_per_game": 0.0,
+              "minutes_played": 2470
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 9,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 4000000.0,
+              "value_trend": "declining",
+              "value_change": -0.227
+            },
+            "scouting_summary": "Yordan Osorio is a 31-year-old Defender (Centre-Back) from Venezuela. currently playing for Parma Calcio 1913. Physical: 189.0cm, right-footed. Career: 35 apps, 0 goals, 0 assists. Performance: 0.00 goals/game, 0.00 assists/game. Profile: emerging player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: serie a. Market value: €1,700,000. Peak value: €4,000,000. Value declining. Contract expiring soon. Agent: Agencia Secasports."
+          },
+          {
+            "rank": 5,
+            "relevance_score": 1.595,
+            "basic_info": {
+              "name": "Pasquale Mazzocchi",
+              "age": 29,
+              "position": "Defender",
+              "sub_position": "Right-Back",
+              "nationality": "Italy",
+              "current_club": "Società Sportiva Calcio Napoli",
+              "market_value": 3000000
+            },
+            "performance": {
+              "total_appearances": 112,
+              "total_goals": 2,
+              "total_assists": 8,
+              "goals_per_game": 0.018,
+              "assists_per_game": 0.071,
+              "minutes_played": 7254
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 9,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 5000000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Pasquale Mazzocchi is a 29-year-old Defender (Right-Back) from Italy. currently playing for Società Sportiva Calcio Napoli. Physical: 183.0cm, right-footed. Career: 112 apps, 2 goals, 8 assists. Performance: 0.02 goals/game, 0.07 assists/game, 0.12 contributions/90min. Profile: experienced player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: serie a. Market value: €3,000,000. Peak value: €5,000,000. Value trending upward. Agent: Luigi Lauro SBM srl."
+          }
+        ],
+        "total_candidates_found": 40,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:37:00.964793",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 5.958839
+      },
+      "test_number": 8
+    },
+    {
+      "test_info": {
+        "query": "prolific goalscorers with high goal rates",
+        "category": "Performance-Based",
+        "description": "Performance metrics focus"
+      },
+      "result": {
+        "success": true,
+        "query": "prolific goalscorers with high goal rates",
+        "ai_response": "**1. Match Assessment:**  The players presented demonstrate varying degrees of success in meeting the criteria of \"prolific goalscorers with high goal rates.\"  Osimhen and Salah clearly stand out with their goals-per-game ratios exceeding 0.6, indicating exceptional goal-scoring prowess.  The remaining players exhibit respectable goal-scoring records but fall short of the elite level established by the top two.\n\n**2. Top Recommendation:** Victor Osimhen emerges as the top recommendation. His 0.614 goals/game ratio, coupled with his age (26) indicating peak performance years, makes him a highly valuable asset. His style is characterized by powerful runs, clinical finishing, and an aerial prowess that makes him a threat in various attacking scenarios.  His market value is justified by his current form and future potential for continued growth.\n\n**3. Alternative Options:** Mohamed Salah, despite his age (32), remains a highly effective goalscorer with a proven track record at the highest level. His superior assist numbers suggest he's a more versatile attacking threat.  Alexandre Lacazette, while possessing experience, shows a declining trajectory and a lower goal rate, making him a less compelling choice compared to the younger prospects.\n\n**4. Key Statistics:** The goals-per-game ratio is the most crucial metric, directly reflecting goal-scoring efficiency.  A secondary metric to consider is the consistency of goal-scoring over the entirety of a player's career, showing sustained high performance.  Analyzing individual seasons, rather than only career averages is also beneficial.\n\n**5. Scouting Concerns:**  Osimhen's \"average discipline\" is a potential concern that warrants further investigation.  Detailed analysis of disciplinary actions, their nature (e.g., tactical fouls vs. violent conduct), and frequency is needed.  Similarly, understanding the contexts and reasons for Salah’s declining trend of his market value requires more detailed analysis.  This should be reviewed to ensure any age related decline is not reflected in his playing ability.\n\n**6. Final Verdict:** Based on the provided data, Victor Osimhen is the strongest candidate. His high goal-scoring rate, age profile, and market value represent an excellent investment.  However, a thorough investigation into his disciplinary record is crucial before finalizing any decision.  Mohamed Salah is an excellent alternative, pending a more detailed assessment of his current physical condition and potential decline.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": 2.361,
+            "basic_info": {
+              "name": "Victor Osimhen",
+              "age": 26,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Nigeria",
+              "current_club": "Galatasaray Spor Kulübü",
+              "market_value": 70000000
+            },
+            "performance": {
+              "total_appearances": 171,
+              "total_goals": 105,
+              "total_assists": 25,
+              "goals_per_game": 0.614,
+              "assists_per_game": 0.146,
+              "minutes_played": 12757
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "prolific",
+              "discipline": "average",
+              "transfer_count": 8,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 120000000.0,
+              "value_trend": "rising",
+              "value_change": -0.067
+            },
+            "scouting_summary": "Victor Osimhen is a 26-year-old Attack (Centre-Forward) from Nigeria. currently playing for Galatasaray Spor Kulübü. Physical: 186.0cm, right-footed. Career: 171 apps, 105 goals, 25 assists. Performance: 0.61 goals/game, 0.15 assists/game, 0.92 contributions/90min. Profile: experienced player, prolific goalscorer, average discipline, big game experience. Experience: Top 5 leagues: serie a, ligue 1; European: europa league, champions league. High market value: €70,000,000. Peak value: €120,000,000. Value trending upward. Contract expiring soon."
+          },
+          {
+            "rank": 2,
+            "relevance_score": 1.642,
+            "basic_info": {
+              "name": "Mohamed Salah",
+              "age": 32,
+              "position": "Attack",
+              "sub_position": "Right Winger",
+              "nationality": "Egypt",
+              "current_club": "Liverpool Football Club",
+              "market_value": 55000000
+            },
+            "performance": {
+              "total_appearances": 261,
+              "total_goals": 158,
+              "total_assists": 80,
+              "goals_per_game": 0.605,
+              "assists_per_game": 0.306,
+              "minutes_played": 20976
+            },
+            "profile": {
+              "experience_level": "veteran",
+              "goal_scoring_ability": "prolific",
+              "discipline": "excellent",
+              "transfer_count": 6,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 120000000.0,
+              "value_trend": "declining",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Mohamed Salah is a 32-year-old Attack (Right Winger) from Egypt. currently playing for Liverpool Football Club. Physical: 175.0cm, left-footed. Career: 261 apps, 158 goals, 80 assists. Performance: 0.61 goals/game, 0.31 assists/game, 1.02 contributions/90min. Profile: veteran player, prolific goalscorer, excellent discipline, big game experience. Experience: Top 5 leagues: premier league; European: champions league, europa league. High market value: €55,000,000. Peak value: €150,000,000. Value declining. Contract expiring soon."
+          },
+          {
+            "rank": 3,
+            "relevance_score": -2.689,
+            "basic_info": {
+              "name": "Alexandre Lacazette",
+              "age": 34,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "France",
+              "current_club": "Olympique Lyonnais",
+              "market_value": 8000000
+            },
+            "performance": {
+              "total_appearances": 193,
+              "total_goals": 86,
+              "total_assists": 26,
+              "goals_per_game": 0.446,
+              "assists_per_game": 0.135,
+              "minutes_played": 13070
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "regular",
+              "discipline": "good",
+              "transfer_count": 2,
+              "career_trajectory": "downward"
+            },
+            "market_info": {
+              "peak_value": 60000000.0,
+              "value_trend": "declining",
+              "value_change": -0.111
+            },
+            "scouting_summary": "Alexandre Lacazette is a 34-year-old Attack (Centre-Forward) from France. currently playing for Olympique Lyonnais. Physical: 175.0cm, right-footed. Career: 193 apps, 86 goals, 26 assists. Performance: 0.45 goals/game, 0.13 assists/game, 0.77 contributions/90min. Profile: experienced player, regular goalscorer, good discipline, big game experience. Experience: Top 5 leagues: ligue 1, premier league; European: europa league. Market value: €8,000,000. Peak value: €70,000,000. Value declining. Contract expiring soon. Agent: score agencies."
+          },
+          {
+            "rank": 4,
+            "relevance_score": -3.213,
+            "basic_info": {
+              "name": "Jonathan David",
+              "age": 25,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Canada",
+              "current_club": "Lille Olympique Sporting Club",
+              "market_value": 45000000
+            },
+            "performance": {
+              "total_appearances": 215,
+              "total_goals": 108,
+              "total_assists": 22,
+              "goals_per_game": 0.502,
+              "assists_per_game": 0.102,
+              "minutes_played": 16602
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "regular",
+              "discipline": "good",
+              "transfer_count": 3,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 60000000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Jonathan David is a 25-year-old Attack (Centre-Forward) from Canada. currently playing for Lille Olympique Sporting Club. Physical: 178.0cm, both-footed. Career: 215 apps, 108 goals, 22 assists. Performance: 0.50 goals/game, 0.10 assists/game, 0.70 contributions/90min. Profile: experienced player, regular goalscorer, good discipline, big game experience. Experience: Top 5 leagues: ligue 1; European: champions league, europa league. Significant market value: €45,000,000. Value trending upward. Contract expiring soon."
+          },
+          {
+            "rank": 5,
+            "relevance_score": -3.286,
+            "basic_info": {
+              "name": "Victor Boniface",
+              "age": 24,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Nigeria",
+              "current_club": "Bayer 04 Leverkusen Fußball",
+              "market_value": 45000000
+            },
+            "performance": {
+              "total_appearances": 104,
+              "total_goals": 50,
+              "total_assists": 21,
+              "goals_per_game": 0.481,
+              "assists_per_game": 0.202,
+              "minutes_played": 6730
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "regular",
+              "discipline": "good",
+              "transfer_count": 5,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 45000000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Victor Boniface is a 24-year-old Attack (Centre-Forward) from Nigeria. currently playing for Bayer 04 Leverkusen Fußball. Physical: 190.0cm, right-footed. Career: 104 apps, 50 goals, 21 assists. Performance: 0.48 goals/game, 0.20 assists/game, 0.95 contributions/90min. Profile: experienced player, regular goalscorer, good discipline, big game experience. Experience: Top 5 leagues: bundesliga; European: europa league, champions league. Significant market value: €45,000,000. Value trending upward. Agent: Aneke/PMG."
+          }
+        ],
+        "total_candidates_found": 5,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:37:08.736588",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 3.901396
+      },
+      "test_number": 9
+    },
+    {
+      "test_info": {
+        "query": "creative playmakers from Bundesliga",
+        "category": "Performance-Based + League",
+        "description": "Playing style + league"
+      },
+      "result": {
+        "success": true,
+        "query": "creative playmakers from Bundesliga",
+        "ai_response": "**1. Match Assessment:**\n\nThe provided list offers a mixed bag of creative playmakers from the Bundesliga, ranging from aging veterans past their prime to younger players with significant potential.  However, the “creative playmaker” criteria is not consistently met given the low goal and assist totals for several candidates.  A deeper dive into individual playing styles is needed to accurately assess their creative contributions beyond simple statistics.\n\n**2. Top Recommendation:**\n\nMario Götze (Player 5), despite his declining market value and age, remains the top recommendation. His extensive experience at the highest level, coupled with a career total of 29 goals and 32 assists in 189 appearances, demonstrates a proven ability to impact the game creatively.  Götze's vision, passing range, and technical proficiency, honed over many years, are arguably unmatched in this list. His declining trend should be addressed with a detailed medical assessment and a discussion of his current motivation.\n\n**3. Alternative Options:**\n\nFredrik Jensen (Player 4) presents a solid alternative, showcasing a more consistent upward trajectory and a younger profile. His slightly lower assist numbers compared to Götze are offset by his age and growth potential. Adrian Beck (Player 2) is another intriguing option due to his upward trajectory, although his overall output remains modest, suggesting the need for further evaluation of his creative input within the team structure.\n\n\n**4. Key Statistics:**\n\nWhile goals and assists are crucial, focusing solely on these metrics is misleading.  A deeper look into key passes, chances created, dribble success rate, and progressive passes per game would provide a more comprehensive understanding of each player's creative contribution. The relevance score, while unexplained, highlights potential discrepancies that warrant further investigation.\n\n**5. Scouting Concerns:**\n\nGötze's age and recent decline warrant a thorough medical assessment to evaluate his physical condition and injury history.  For the younger prospects, a comprehensive analysis of their playing style beyond simple statistics, including match footage reviews, is necessary to confirm their creative capabilities and tactical adaptability.\n\n**6. Final Verdict:**\n\nI recommend prioritizing Mario Götze for further investigation, given his proven track record despite his age.  However, a detailed medical check and discussion about his motivations are crucial.  Fredrik Jensen should be considered a strong alternative, pending further performance analysis. The remaining candidates present higher risk profiles based on current data.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": -3.091,
+            "basic_info": {
+              "name": "Steven Skrzybski",
+              "age": 32,
+              "position": "Midfield",
+              "sub_position": "Attacking Midfield",
+              "nationality": "Germany",
+              "current_club": "Kieler Sportvereinigung Holstein von 1900",
+              "market_value": 1000000
+            },
+            "performance": {
+              "total_appearances": 46,
+              "total_goals": 7,
+              "total_assists": 7,
+              "goals_per_game": 0.152,
+              "assists_per_game": 0.152,
+              "minutes_played": 2180
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "excellent",
+              "transfer_count": 4,
+              "career_trajectory": "downward"
+            },
+            "market_info": {
+              "peak_value": 2000000.0,
+              "value_trend": "declining",
+              "value_change": -0.231
+            },
+            "scouting_summary": "Steven Skrzybski is a 32-year-old Midfield (Attacking Midfield) from Germany. currently playing for Kieler Sportvereinigung Holstein von 1900. Physical: 174.0cm, right-footed. Career: 46 apps, 7 goals, 7 assists. Performance: 0.15 goals/game, 0.15 assists/game, 0.58 contributions/90min. Profile: emerging player, rare goalscorer, excellent discipline, big game experience. Experience: Top 5 leagues: bundesliga. Market value: €1,000,000. Peak value: €3,500,000. Value declining. Contract expires within 18 months. Agent: AKA Global GmbH."
+          },
+          {
+            "rank": 2,
+            "relevance_score": -3.84,
+            "basic_info": {
+              "name": "Adrian Beck",
+              "age": 28,
+              "position": "Midfield",
+              "sub_position": "Attacking Midfield",
+              "nationality": "Germany",
+              "current_club": "1. Fußballclub Heidenheim 1846",
+              "market_value": 2000000
+            },
+            "performance": {
+              "total_appearances": 53,
+              "total_goals": 5,
+              "total_assists": 4,
+              "goals_per_game": 0.094,
+              "assists_per_game": 0.075,
+              "minutes_played": 2315
+            },
+            "profile": {
+              "experience_level": "developing",
+              "goal_scoring_ability": "rare",
+              "discipline": "excellent",
+              "transfer_count": 8,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 2000000.0,
+              "value_trend": "rising",
+              "value_change": 0.333
+            },
+            "scouting_summary": "Adrian Beck is a 28-year-old Midfield (Attacking Midfield) from Germany. currently playing for 1. Fußballclub Heidenheim 1846. Physical: 186.0cm, right-footed. Career: 53 apps, 5 goals, 4 assists. Performance: 0.09 goals/game, 0.08 assists/game, 0.35 contributions/90min. Profile: developing player, rare goalscorer, excellent discipline, big game experience. Experience: Top 5 leagues: bundesliga. Market value: €2,000,000. Value trending upward."
+          },
+          {
+            "rank": 3,
+            "relevance_score": -4.263,
+            "basic_info": {
+              "name": "Ole Pohlmann",
+              "age": 24,
+              "position": "Midfield",
+              "sub_position": "Attacking Midfield",
+              "nationality": "Germany",
+              "current_club": "Rio Ave Futebol Clube",
+              "market_value": 2500000
+            },
+            "performance": {
+              "total_appearances": 26,
+              "total_goals": 1,
+              "total_assists": 2,
+              "goals_per_game": 0.038,
+              "assists_per_game": 0.077,
+              "minutes_played": 1499
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "excellent",
+              "transfer_count": 7,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 2500000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Ole Pohlmann is a 24-year-old Midfield (Attacking Midfield) from Germany. currently playing for Rio Ave Futebol Clube. Physical: 183.0cm, right-footed. Career: 26 apps, 1 goals, 2 assists. Performance: 0.04 goals/game, 0.08 assists/game, 0.18 contributions/90min. Profile: emerging player, non_scorer goalscorer, excellent discipline, big game experience. Experience: Top 5 leagues: bundesliga. Market value: €2,500,000. Value trending upward. Agent: ROOF."
+          },
+          {
+            "rank": 4,
+            "relevance_score": -4.517,
+            "basic_info": {
+              "name": "Fredrik Jensen",
+              "age": 27,
+              "position": "Midfield",
+              "sub_position": "Attacking Midfield",
+              "nationality": "Finland",
+              "current_club": "Fußball-Club Augsburg 1907",
+              "market_value": 3500000
+            },
+            "performance": {
+              "total_appearances": 89,
+              "total_goals": 8,
+              "total_assists": 10,
+              "goals_per_game": 0.09,
+              "assists_per_game": 0.112,
+              "minutes_played": 3974
+            },
+            "profile": {
+              "experience_level": "developing",
+              "goal_scoring_ability": "rare",
+              "discipline": "excellent",
+              "transfer_count": 2,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 3500000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Fredrik Jensen is a 27-year-old Midfield (Attacking Midfield) from Finland. currently playing for Fußball-Club Augsburg 1907. Physical: 183.0cm, right-footed. Career: 89 apps, 8 goals, 10 assists. Performance: 0.09 goals/game, 0.11 assists/game, 0.41 contributions/90min. Profile: developing player, rare goalscorer, excellent discipline, big game experience. Experience: Top 5 leagues: bundesliga. Market value: €3,500,000. Value trending upward. Contract expiring soon. Agent: V4S."
+          },
+          {
+            "rank": 5,
+            "relevance_score": -4.837,
+            "basic_info": {
+              "name": "Mario Götze",
+              "age": 33,
+              "position": "Midfield",
+              "sub_position": "Attacking Midfield",
+              "nationality": "Germany",
+              "current_club": "Eintracht Frankfurt Fußball AG",
+              "market_value": 5000000
+            },
+            "performance": {
+              "total_appearances": 189,
+              "total_goals": 29,
+              "total_assists": 32,
+              "goals_per_game": 0.153,
+              "assists_per_game": 0.169,
+              "minutes_played": 14109
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 3,
+              "career_trajectory": "downward"
+            },
+            "market_info": {
+              "peak_value": 13000000.0,
+              "value_trend": "declining",
+              "value_change": -0.091
+            },
+            "scouting_summary": "Mario Götze is a 33-year-old Midfield (Attacking Midfield) from Germany. currently playing for Eintracht Frankfurt Fußball AG. Physical: 176.0cm, right-footed. Career: 189 apps, 29 goals, 32 assists. Performance: 0.15 goals/game, 0.17 assists/game, 0.39 contributions/90min. Profile: experienced player, rare goalscorer, good discipline, big game experience. Experience: Top 5 leagues: bundesliga; European: europa league, champions league. Market value: €5,000,000. Peak value: €55,000,000. Value declining. Contract expires within 18 months. Agent: Sports360 GmbH."
+          }
+        ],
+        "total_candidates_found": 13,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:38:30.957621",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 4.534271
+      },
+      "test_number": 10
+    },
+    {
+      "test_info": {
+        "query": "young brazilian wingers under 23 from top european leagues",
+        "category": "Complex Multi-Criteria",
+        "description": "Age + nationality + position + league"
+      },
+      "result": {
+        "success": true,
+        "query": "young brazilian wingers under 23 from top european leagues",
+        "ai_response": "**1. Match Assessment:**  The scouting request specifies \"young Brazilian wingers under 23 from top European leagues.\"  Roger, while a talented player, does not meet the nationality criteria, being Portuguese.  Therefore, the provided list requires a complete reassessment to identify suitable Brazilian players fitting the defined parameters.  A broader search, encompassing all relevant leagues, is necessary.\n\n\n**2. Top Recommendation:** (Given the mismatch in the provided list, a hypothetical top Brazilian winger will be analyzed).  Let's assume we identify  \"Ricardo,\" a 21-year-old Brazilian winger at a club like Lille or RB Leipzig.  Ricardo's strengths might include exceptional dribbling ability, pace to beat defenders one-on-one, and a knack for creating chances with incisive passes.  His playing style might be described as direct, explosive, and technically gifted, reminiscent of a young Neymar. He'd be perfect due to his age, league experience, and potential for significant growth.\n\n\n**3. Alternative Options:** Suppose we identify \"Gabriel\" playing in Serie A and \"Paulo\" in La Liga, both meeting the criteria. Gabriel might offer a more polished, tactical approach with superior crossing ability, while Paulo might be a raw talent with explosive potential but less consistency. This provides a valuable range of profiles to consider, depending on the club's immediate needs and long-term strategy.\n\n\n**4. Key Statistics:**  For a successful young winger, key metrics beyond goals and assists include successful dribbles per game (measuring effectiveness), key passes per game (chance creation), and progressive carries (demonstrating attacking intent). A high volume of shots on target, indicating accuracy, and successful crosses also signal quality.  These metrics, combined with qualitative assessment, paint a more complete picture of the player's contribution.\n\n\n**5. Scouting Concerns:**  With young players,  consistency of performance and adaptation to different tactical systems are crucial concerns.  We need to investigate possible injury history, psychological resilience under pressure (particularly important given the high-stakes nature of top European football), and their adaptability to a new environment and team dynamics.\n\n\n**6. Final Verdict:**  The initial player list is unsuitable.  A revised search focusing exclusively on Brazilian wingers under 23 in top European leagues is paramount.  Subsequent analysis should prioritize players exhibiting a high volume of progressive carries, key passes, and successful dribbles, alongside qualitative assessments addressing consistency, mentality, and potential for long-term development.  A comprehensive scouting report incorporating these elements will facilitate a more informed and confident selection.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": -1.604,
+            "basic_info": {
+              "name": "Roger",
+              "age": 19,
+              "position": "Attack",
+              "sub_position": "Right Winger",
+              "nationality": "Portugal",
+              "current_club": "Sporting Clube de Braga",
+              "market_value": 20000000
+            },
+            "performance": {
+              "total_appearances": 71,
+              "total_goals": 10,
+              "total_assists": 13,
+              "goals_per_game": 0.141,
+              "assists_per_game": 0.183,
+              "minutes_played": 3596
+            },
+            "profile": {
+              "experience_level": "developing",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 3,
+              "career_trajectory": "stable"
+            },
+            "market_info": {
+              "peak_value": 20000000.0,
+              "value_trend": "rising",
+              "value_change": 0.333
+            },
+            "scouting_summary": "Roger is a 19-year-old Attack (Right Winger) from Portugal. currently playing for Sporting Clube de Braga. Physical: compact 166.0cm, left-footed. Career: 71 apps, 10 goals, 13 assists. Performance: 0.14 goals/game, 0.18 assists/game, 0.58 contributions/90min. Profile: developing player, rare goalscorer, good discipline, big game experience. Experience: European: europa league, champions league. Significant market value: €20,000,000. Value trending upward."
+          }
+        ],
+        "total_candidates_found": 1,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:39:31.533184",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 4.673704
+      },
+      "test_number": 11
+    },
+    {
+      "test_info": {
+        "query": "fast left-footed wingers from England under 30m",
+        "category": "Complex Multi-Criteria",
+        "description": "Attributes + nationality + budget"
+      },
+      "result": {
+        "success": true,
+        "query": "fast left-footed wingers from England under 30m",
+        "ai_response": "**1. Match Assessment:** None of the provided players meet the specified criteria of being a fast, left-footed winger from England under £30m.  All listed players are primarily centre-forwards, not wingers, and only Kieran Phillips is English.  The request needs significant refinement to yield relevant results.\n\n**2. Top Recommendation:** Given the limitations of the provided data, Kieran Phillips is the closest match, albeit a far from ideal one. His age (25) and rising market value (€350,000) fit the budget.  While his goal-scoring ratio isn't exceptional, his consistent upward career trajectory and excellent discipline suggest potential for development.  Further scouting is crucial to assess his speed and adaptability to a wing position.\n\n**3. Alternative Options:**  Álvaro Rodríguez and George Hirst, despite being centre-forwards, possess slightly higher goal output than Phillips, although neither is English.  Their higher market values reflect their superior goal scoring relative to Phillips, but still they are not wingers.  These players might be considered only if the position preference can be relaxed or if a re-training plan is part of the acquisition strategy.\n\n**4. Key Statistics:** The most relevant metric here is goals per game, even if the sample sizes are small.  However, this metric alone is insufficient;  a thorough analysis of underlying metrics such as shots on target, key passes, and dribble success rates would be required for a conclusive assessment of attacking prowess and potential adaptability to a winger role.  The absence of speed and agility data is a major shortcoming.\n\n**5. Scouting Concerns:**  The biggest concern is the fundamental mismatch between the scouting request and the player profiles.  Re-evaluating the original request's criteria – position, nationality, and preferred foot – is paramount.  Further, a detailed analysis of each player's pace and agility, key aspects for a winger, is vital before considering any of them.\n\n**6. Final Verdict:** Based solely on the provided data, none of these players represent suitable candidates.  The scouting request must be revised to target left-footed wingers from England.  If the position constraint is relaxed, then further in-depth scouting of Álvaro Rodríguez and George Hirst is warranted to ascertain if they possess the physical attributes and tactical acumen to transition to a wide role; however, this is a high risk, high reward venture.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": -2.448,
+            "basic_info": {
+              "name": "Kieran Phillips",
+              "age": 25,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "England",
+              "current_club": "Ross County Football Club",
+              "market_value": 350000
+            },
+            "performance": {
+              "total_appearances": 11,
+              "total_goals": 2,
+              "total_assists": 1,
+              "goals_per_game": 0.182,
+              "assists_per_game": 0.091,
+              "minutes_played": 669
+            },
+            "profile": {
+              "experience_level": "young",
+              "goal_scoring_ability": "rare",
+              "discipline": "excellent",
+              "transfer_count": 16,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 350000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Kieran Phillips is a 25-year-old Attack (Centre-Forward) from England. currently playing for Ross County Football Club. Physical: 189.0cm, right-footed. Career: 11 apps, 2 goals, 1 assists. Performance: 0.18 goals/game, 0.09 assists/game, 0.40 contributions/90min. Profile: young player, rare goalscorer, excellent discipline. Market value: €350,000. Value trending upward. Agent: Wasserman."
+          },
+          {
+            "rank": 2,
+            "relevance_score": -6.599,
+            "basic_info": {
+              "name": "Álvaro Rodríguez",
+              "age": 20,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Uruguay",
+              "current_club": "Getafe Club de Fútbol S.A.D. Team Dubai",
+              "market_value": 2500000
+            },
+            "performance": {
+              "total_appearances": 31,
+              "total_goals": 4,
+              "total_assists": 2,
+              "goals_per_game": 0.129,
+              "assists_per_game": 0.065,
+              "minutes_played": 968
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "average",
+              "transfer_count": 5,
+              "career_trajectory": "stable"
+            },
+            "market_info": {
+              "peak_value": 6000000.0,
+              "value_trend": "rising",
+              "value_change": -0.167
+            },
+            "scouting_summary": "Álvaro Rodríguez is a 20-year-old Attack (Centre-Forward) from Uruguay. currently playing for Getafe Club de Fútbol S.A.D. Team Dubai. Physical: tall 193.0cm, left-footed. Career: 31 apps, 4 goals, 2 assists. Performance: 0.13 goals/game, 0.06 assists/game, 0.56 contributions/90min. Profile: emerging player, rare goalscorer, average discipline, big game experience. Experience: Top 5 leagues: la liga. Market value: €2,500,000. Peak value: €6,000,000. Value trending upward. Contract expiring soon. Agent: Footfeel ISM."
+          },
+          {
+            "rank": 3,
+            "relevance_score": -6.915,
+            "basic_info": {
+              "name": "George Hirst",
+              "age": 26,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Scotland",
+              "current_club": "Ipswich Town Football Club",
+              "market_value": 5000000
+            },
+            "performance": {
+              "total_appearances": 26,
+              "total_goals": 5,
+              "total_assists": 2,
+              "goals_per_game": 0.192,
+              "assists_per_game": 0.077,
+              "minutes_played": 609
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 12,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 5000000.0,
+              "value_trend": "rising",
+              "value_change": 0.25
+            },
+            "scouting_summary": "George Hirst is a 26-year-old Attack (Centre-Forward) from Scotland. currently playing for Ipswich Town Football Club. Physical: tall 191.0cm, right-footed. Career: 26 apps, 5 goals, 2 assists. Performance: 0.19 goals/game, 0.08 assists/game, 1.03 contributions/90min. Profile: emerging player, rare goalscorer, good discipline, big game experience. Experience: Top 5 leagues: premier league. Market value: €5,000,000. Value trending upward. Agent: Footwork."
+          },
+          {
+            "rank": 4,
+            "relevance_score": -7.093,
+            "basic_info": {
+              "name": "Innes Cameron",
+              "age": 24,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Scotland",
+              "current_club": "Kilmarnock Football Club",
+              "market_value": 200000
+            },
+            "performance": {
+              "total_appearances": 43,
+              "total_goals": 2,
+              "total_assists": 2,
+              "goals_per_game": 0.046,
+              "assists_per_game": 0.046,
+              "minutes_played": 1048
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 13,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 225000.0,
+              "value_trend": "rising",
+              "value_change": -0.111
+            },
+            "scouting_summary": "Innes Cameron is a 24-year-old Attack (Centre-Forward) from Scotland. currently playing for Kilmarnock Football Club. Physical: 190.0cm, right-footed. Career: 43 apps, 2 goals, 2 assists. Performance: 0.05 goals/game, 0.05 assists/game, 0.34 contributions/90min. Profile: emerging player, non_scorer goalscorer, good discipline. Market value: €200,000. Value trending upward. Contract expiring soon. Agent: PLG Scotland."
+          },
+          {
+            "rank": 5,
+            "relevance_score": -7.997,
+            "basic_info": {
+              "name": "David Min",
+              "age": 25,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Netherlands",
+              "current_club": "Football Club Utrecht",
+              "market_value": 1000000
+            },
+            "performance": {
+              "total_appearances": 61,
+              "total_goals": 15,
+              "total_assists": 3,
+              "goals_per_game": 0.246,
+              "assists_per_game": 0.049,
+              "minutes_played": 3120
+            },
+            "profile": {
+              "experience_level": "developing",
+              "goal_scoring_ability": "occasional",
+              "discipline": "good",
+              "transfer_count": 5,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 1000000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "David Min is a 25-year-old Attack (Centre-Forward) from Netherlands. currently playing for Football Club Utrecht. Physical: tall 194.0cm, right-footed. Career: 61 apps, 15 goals, 3 assists. Performance: 0.25 goals/game, 0.05 assists/game, 0.52 contributions/90min. Profile: developing player, occasional goalscorer, good discipline. Market value: €1,000,000. Value trending upward. Agent: Grand Stand."
+          }
+        ],
+        "total_candidates_found": 6,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:44:08.934242",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 4.300544
+      },
+      "test_number": 12
+    },
+    {
+      "test_info": {
+        "query": "versatile players who can play multiple positions",
+        "category": "Edge Case",
+        "description": "Ambiguous position requirement"
+      },
+      "result": {
+        "success": true,
+        "query": "versatile players who can play multiple positions",
+        "ai_response": "**1. Match Assessment:**  None of these players demonstrate exceptional versatility across multiple positions.  The request for \"versatile players\" necessitates a broader positional adaptability than shown here; all are primarily central midfielders with minor positional variations. However,  Fernando Costanza and Joel Chima Fujita show the most potential for adaptation based on their midfield experience.\n\n**2. Top Recommendation:** My top recommendation is Fernando Costanza. While his disciplinary issues are a concern (addressed below), his advanced age (26), higher market value (€3,000,000), and superior goal and assist contributions (9 goals, 6 assists in 86 appearances) compared to the others strongly suggest a higher ceiling. His \"rare goalscorer\" profile hints at potential for development in attacking roles, suggesting a capacity for adaptation beyond a purely defensive midfield position.  His experience and performance metrics outweigh the risks associated with his discipline.\n\n**3. Alternative Options:** Joel Chima Fujita offers a younger, potentially cheaper option with a slightly higher assist rate, making him a valuable alternative if Costanza proves unattainable.  Ramazan Orazov's high goal/game ratio in limited appearances is intriguing but needs further investigation to validate its consistency.  The remaining players, based on stats and limited versatility, are less compelling.\n\n**4. Key Statistics:**  Goals/game and assists/game are crucial, revealing attacking output.  However,  considering the defensive midfield roles,  tackle success rate, interceptions, and pass completion percentage would be equally, if not more, important for a comprehensive evaluation.  These data points are missing from the provided profiles and significantly hamper the full assessment.\n\n**5. Scouting Concerns:** Costanza's \"questionable discipline\" requires thorough investigation.  Reports on his on-field behavior and potential off-field issues are critical.   Furthermore, the limited data provided necessitates on-site scouting to assess their actual versatility and technical capabilities in different positional roles. The low relevance scores raise questions about the data's accuracy or methodology; this needs clarification.\n\n\n**6. Final Verdict:** While none of the presented players perfectly meet the \"versatile\" criteria, Fernando Costanza presents the most promising profile for immediate impact, despite disciplinary concerns.  A thorough background check on his conduct is essential before proceeding.  Further scouting is necessary to validate the presented statistics and assess their actual positional flexibility, ideally observing them in varied match scenarios.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": -7.946,
+            "basic_info": {
+              "name": "Dmitriy Vasiljev",
+              "age": 20,
+              "position": "Midfield",
+              "sub_position": "Defensive Midfield",
+              "nationality": "Russia",
+              "current_club": "AO FK Zenit Sankt-Peterburg",
+              "market_value": 700000
+            },
+            "performance": {
+              "total_appearances": 24,
+              "total_goals": 2,
+              "total_assists": 0,
+              "goals_per_game": 0.083,
+              "assists_per_game": 0.0,
+              "minutes_played": 836
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 5,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 700000.0,
+              "value_trend": "rising",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Dmitriy Vasiljev is a 20-year-old Midfield (Defensive Midfield) from Russia. currently playing for AO FK Zenit Sankt-Peterburg. Physical: 184.0cm, right-footed. Career: 24 apps, 2 goals, 0 assists. Performance: 0.08 goals/game, 0.00 assists/game, 0.21 contributions/90min. Profile: emerging player, rare goalscorer, good discipline. Market value: €700,000. Value trending upward. Agent: ATS."
+          },
+          {
+            "rank": 2,
+            "relevance_score": -7.99,
+            "basic_info": {
+              "name": "Joel Chima Fujita",
+              "age": 23,
+              "position": "Midfield",
+              "sub_position": "Central Midfield",
+              "nationality": "Japan",
+              "current_club": "Koninklijke Sint-Truidense Voetbalvereniging",
+              "market_value": 2200000
+            },
+            "performance": {
+              "total_appearances": 47,
+              "total_goals": 1,
+              "total_assists": 4,
+              "goals_per_game": 0.021,
+              "assists_per_game": 0.085,
+              "minutes_played": 3292
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "average",
+              "transfer_count": 4,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 2200000.0,
+              "value_trend": "rising",
+              "value_change": 0.222
+            },
+            "scouting_summary": "Joel Chima Fujita is a 23-year-old Midfield (Central Midfield) from Japan. currently playing for Koninklijke Sint-Truidense Voetbalvereniging. Physical: 175.0cm, right-footed. Career: 47 apps, 1 goals, 4 assists. Performance: 0.02 goals/game, 0.09 assists/game, 0.14 contributions/90min. Profile: emerging player, non_scorer goalscorer, average discipline. Market value: €2,200,000. Value trending upward."
+          },
+          {
+            "rank": 3,
+            "relevance_score": -8.32,
+            "basic_info": {
+              "name": "Ramazan Orazov",
+              "age": 27,
+              "position": "Midfield",
+              "sub_position": "Central Midfield",
+              "nationality": "Kazakhstan",
+              "current_club": "Silkeborg Idrætsforening",
+              "market_value": 450000
+            },
+            "performance": {
+              "total_appearances": 19,
+              "total_goals": 3,
+              "total_assists": 0,
+              "goals_per_game": 0.158,
+              "assists_per_game": 0.0,
+              "minutes_played": 674
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "average",
+              "transfer_count": 11,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 500000.0,
+              "value_trend": "stable",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Ramazan Orazov is a 27-year-old Midfield (Central Midfield) from Kazakhstan. currently playing for Silkeborg Idrætsforening. Physical: 176.0cm, right-footed. Career: 19 apps, 3 goals, 0 assists. Performance: 0.16 goals/game, 0.00 assists/game, 0.40 contributions/90min. Profile: emerging player, rare goalscorer, average discipline. Market value: €450,000. Agent: KVD Player Agency."
+          },
+          {
+            "rank": 4,
+            "relevance_score": -8.338,
+            "basic_info": {
+              "name": "Fernando Costanza",
+              "age": 26,
+              "position": "Midfield",
+              "sub_position": "Defensive Midfield",
+              "nationality": "Brazil",
+              "current_club": "PFK Krylya Sovetov Samara",
+              "market_value": 3000000
+            },
+            "performance": {
+              "total_appearances": 86,
+              "total_goals": 9,
+              "total_assists": 6,
+              "goals_per_game": 0.105,
+              "assists_per_game": 0.07,
+              "minutes_played": 6778
+            },
+            "profile": {
+              "experience_level": "developing",
+              "goal_scoring_ability": "rare",
+              "discipline": "questionable",
+              "transfer_count": 4,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 3500000.0,
+              "value_trend": "rising",
+              "value_change": -0.143
+            },
+            "scouting_summary": "Fernando Costanza is a 26-year-old Midfield (Defensive Midfield) from Brazil. currently playing for PFK Krylya Sovetov Samara. Physical: 182.0cm, both-footed. Career: 86 apps, 9 goals, 6 assists. Performance: 0.10 goals/game, 0.07 assists/game, 0.20 contributions/90min. Profile: developing player, rare goalscorer, questionable discipline, big game experience. Experience: European: champions league. Market value: €3,000,000. Value trending upward."
+          },
+          {
+            "rank": 5,
+            "relevance_score": -8.349,
+            "basic_info": {
+              "name": "Oleksandr Pyatov",
+              "age": 28,
+              "position": "Midfield",
+              "sub_position": "Central Midfield",
+              "nationality": "Ukraine",
+              "current_club": "FC Ingulets Petrove",
+              "market_value": 350000
+            },
+            "performance": {
+              "total_appearances": 23,
+              "total_goals": 3,
+              "total_assists": 1,
+              "goals_per_game": 0.13,
+              "assists_per_game": 0.043,
+              "minutes_played": 1837
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "excellent",
+              "transfer_count": 10,
+              "career_trajectory": "stable"
+            },
+            "market_info": {
+              "peak_value": 350000.0,
+              "value_trend": "rising",
+              "value_change": 0.167
+            },
+            "scouting_summary": "Oleksandr Pyatov is a 28-year-old Midfield (Central Midfield) from Ukraine. currently playing for FC Ingulets Petrove. Physical: 177.0cm, right-footed. Career: 23 apps, 3 goals, 1 assists. Performance: 0.13 goals/game, 0.04 assists/game, 0.20 contributions/90min. Profile: emerging player, rare goalscorer, excellent discipline. Market value: €350,000. Value trending upward. Contract expires within 18 months. Agent: ProStar."
+          }
+        ],
+        "total_candidates_found": 40,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:44:24.058974",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 11.569562
+      },
+      "test_number": 13
+    },
+    {
+      "test_info": {
+        "query": "players with contracts expiring soon",
+        "category": "Edge Case",
+        "description": "Contract status query"
+      },
+      "result": {
+        "success": true,
+        "query": "players with contracts expiring soon",
+        "ai_response": "**1. Match Assessment:** The list presents a mixed bag regarding the \"expiring contracts\" criteria, lacking confirmation on contract status.  However, the selection offers a range of experienced and emerging talent, predominantly defenders and forwards, providing options for various squad needs.  The provided data allows for a reasonable assessment despite the missing contract detail.\n\n\n**2. Top Recommendation:** Alejo Veliz (Player 4) is my top recommendation.  At 21, he exhibits a promising goal-scoring ratio (0.132 goals/game) despite his young age, indicating high potential for future development. His profile indicates good discipline, a crucial asset, and his upward trajectory, coupled with a rising market value, suggests significant growth potential, making him a valuable long-term investment.  His youth and potential outweigh the relatively low number of appearances.\n\n\n**3. Alternative Options:** Álvaro Tejero (Player 3) is an interesting option as a right-back with a good assist ratio, suggesting offensive contributions, but his relatively low market value and smaller sample size need further investigation.  Joël Veltman (Player 2), despite his age and experience, offers immediate squad depth but carries higher financial risk due to his age and the potential for declining performance.\n\n\n**4. Key Statistics:**  The goals-per-game ratio is crucial for evaluating forwards, with Veliz standing out.  Assists per game, while important for assessing attacking contributions, are especially valuable when evaluating wide defenders like Tejero.  Both metrics, when considered with age and career trajectory, provide a clearer picture of player potential.\n\n\n**5. Scouting Concerns:** The lack of explicit contract information necessitates further due diligence to confirm the expiration dates.  Additionally, for players with limited appearances (Veliz, Tejero), a deeper dive into their recent performance and playing time within their respective teams is required to mitigate the risk of relying solely on limited data.\n\n\n**6. Final Verdict:** Based on the provided information, Alejo Veliz presents the strongest case for acquisition due to his high goal-scoring potential, age, and upward trajectory.  Further investigation into his contract situation and recent form is, however, essential before a definitive recommendation.  Tejero offers valuable backup, but a more thorough assessment of both is paramount.\n",
+        "top_players": [
+          {
+            "rank": 1,
+            "relevance_score": 2.927,
+            "basic_info": {
+              "name": "Rick Karsdorp",
+              "age": 30,
+              "position": "Defender",
+              "sub_position": "Right-Back",
+              "nationality": "Netherlands",
+              "current_club": "Eindhovense Voetbalvereniging Philips Sport Vereniging",
+              "market_value": 4000000
+            },
+            "performance": {
+              "total_appearances": 158,
+              "total_goals": 1,
+              "total_assists": 16,
+              "goals_per_game": 0.006,
+              "assists_per_game": 0.101,
+              "minutes_played": 10876
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 5,
+              "career_trajectory": "downward"
+            },
+            "market_info": {
+              "peak_value": 15000000.0,
+              "value_trend": "rising",
+              "value_change": -0.2
+            },
+            "scouting_summary": "Rick Karsdorp is a 30-year-old Defender (Right-Back) from Netherlands. currently playing for Eindhovense Voetbalvereniging Philips Sport Vereniging. Physical: 184.0cm, right-footed. Career: 158 apps, 1 goals, 16 assists. Performance: 0.01 goals/game, 0.10 assists/game, 0.14 contributions/90min. Profile: experienced player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: serie a; European: europa league, champions league. Market value: €4,000,000. Peak value: €15,000,000. Value trending upward. Contract expiring soon. Agent: SEG."
+          },
+          {
+            "rank": 2,
+            "relevance_score": 2.925,
+            "basic_info": {
+              "name": "Joël Veltman",
+              "age": 33,
+              "position": "Defender",
+              "sub_position": "Right-Back",
+              "nationality": "Netherlands",
+              "current_club": "Brighton and Hove Albion Football Club",
+              "market_value": 7000000
+            },
+            "performance": {
+              "total_appearances": 159,
+              "total_goals": 4,
+              "total_assists": 6,
+              "goals_per_game": 0.025,
+              "assists_per_game": 0.038,
+              "minutes_played": 11723
+            },
+            "profile": {
+              "experience_level": "experienced",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "average",
+              "transfer_count": 1,
+              "career_trajectory": "unknown"
+            },
+            "market_info": {
+              "peak_value": 10000000.0,
+              "value_trend": "rising",
+              "value_change": -0.125
+            },
+            "scouting_summary": "Joël Veltman is a 33-year-old Defender (Right-Back) from Netherlands. currently playing for Brighton and Hove Albion Football Club. Physical: 184.0cm, right-footed. Career: 159 apps, 4 goals, 6 assists. Performance: 0.03 goals/game, 0.04 assists/game, 0.08 contributions/90min. Profile: experienced player, non_scorer goalscorer, average discipline, big game experience. Experience: Top 5 leagues: premier league; European: europa league. Market value: €7,000,000. Value trending upward. Contract expiring soon."
+          },
+          {
+            "rank": 3,
+            "relevance_score": 2.925,
+            "basic_info": {
+              "name": "Álvaro Tejero",
+              "age": 28,
+              "position": "Defender",
+              "sub_position": "Right-Back",
+              "nationality": "Spain",
+              "current_club": "Reial Club Deportiu Espanyol de Barcelona S.A.D.",
+              "market_value": 2000000
+            },
+            "performance": {
+              "total_appearances": 36,
+              "total_goals": 1,
+              "total_assists": 4,
+              "goals_per_game": 0.028,
+              "assists_per_game": 0.111,
+              "minutes_played": 2181
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "non_scorer",
+              "discipline": "good",
+              "transfer_count": 7,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 2400000.0,
+              "value_trend": "stable",
+              "value_change": 0.0
+            },
+            "scouting_summary": "Álvaro Tejero is a 28-year-old Defender (Right-Back) from Spain. currently playing for Reial Club Deportiu Espanyol de Barcelona S.A.D.. Physical: 174.0cm, both-footed. Career: 36 apps, 1 goals, 4 assists. Performance: 0.03 goals/game, 0.11 assists/game, 0.21 contributions/90min. Profile: emerging player, non_scorer goalscorer, good discipline, big game experience. Experience: Top 5 leagues: la liga. Market value: €2,000,000. Contract expiring soon. Agent: CAA Base Ltd."
+          },
+          {
+            "rank": 4,
+            "relevance_score": 2.751,
+            "basic_info": {
+              "name": "Alejo Veliz",
+              "age": 21,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Argentina",
+              "current_club": "Reial Club Deportiu Espanyol de Barcelona S.A.D.",
+              "market_value": 2800000
+            },
+            "performance": {
+              "total_appearances": 38,
+              "total_goals": 5,
+              "total_assists": 0,
+              "goals_per_game": 0.132,
+              "assists_per_game": 0.0,
+              "minutes_played": 1247
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 7,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 11000000.0,
+              "value_trend": "rising",
+              "value_change": -0.3
+            },
+            "scouting_summary": "Alejo Veliz is a 21-year-old Attack (Centre-Forward) from Argentina. currently playing for Reial Club Deportiu Espanyol de Barcelona S.A.D.. Physical: 186.0cm, right-footed. Career: 38 apps, 5 goals, 0 assists. Performance: 0.13 goals/game, 0.00 assists/game, 0.36 contributions/90min. Profile: emerging player, rare goalscorer, good discipline, big game experience. Experience: Top 5 leagues: la liga, premier league. Market value: €2,800,000. Peak value: €11,000,000. Value trending upward. Contract expiring soon. Agent: Lion Volt."
+          },
+          {
+            "rank": 5,
+            "relevance_score": 2.649,
+            "basic_info": {
+              "name": "Roberto Fernández",
+              "age": 22,
+              "position": "Attack",
+              "sub_position": "Centre-Forward",
+              "nationality": "Spain",
+              "current_club": "Reial Club Deportiu Espanyol de Barcelona S.A.D.",
+              "market_value": 4000000
+            },
+            "performance": {
+              "total_appearances": 38,
+              "total_goals": 5,
+              "total_assists": 2,
+              "goals_per_game": 0.132,
+              "assists_per_game": 0.053,
+              "minutes_played": 1792
+            },
+            "profile": {
+              "experience_level": "emerging",
+              "goal_scoring_ability": "rare",
+              "discipline": "good",
+              "transfer_count": 10,
+              "career_trajectory": "upward"
+            },
+            "market_info": {
+              "peak_value": 4000000.0,
+              "value_trend": "rising",
+              "value_change": 0.143
+            },
+            "scouting_summary": "Roberto Fernández is a 22-year-old Attack (Centre-Forward) from Spain. currently playing for Reial Club Deportiu Espanyol de Barcelona S.A.D.. Physical: 186.0cm, right-footed. Career: 38 apps, 5 goals, 2 assists. Performance: 0.13 goals/game, 0.05 assists/game, 0.35 contributions/90min. Profile: emerging player, rare goalscorer, good discipline, big game experience. Experience: Top 5 leagues: la liga; European: europa league. Market value: €4,000,000. Value trending upward. Contract expiring soon."
+          }
+        ],
+        "total_candidates_found": 40,
+        "search_metadata": {
+          "timestamp": "2025-06-13T20:45:11.632490",
+          "model_used": "gemini-1.5-flash",
+          "reranking_applied": true,
+          "filters_applied": true
+        },
+        "processing_time_seconds": 11.793941
+      },
+      "test_number": 14
+    }
+  ]
+}
